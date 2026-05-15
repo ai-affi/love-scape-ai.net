@@ -53,7 +53,25 @@
     .mc .mi{padding:20px}
     .mc .mn{font-size:1.1rem;font-weight:700;margin-bottom:6px;color:#e8e8ec}
     .mc .mt{color:#07f0ff;font-size:.8rem;margin-bottom:10px}
-    .mc .md{color:#8a8a98;font-size:.9rem;line-height:1.6}
+    .mc .ma{display:inline-block;margin-top:12px;color:#07f0ff;font-size:.85rem;font-weight:600}
+    .mc .ma:hover{color:#cf7aff}
+    .pg{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:24px;max-width:1000px;margin:0 auto}
+    .pc{background:#12121a;border:1px solid #252530;border-radius:20px;padding:36px 28px;text-align:center;position:relative;transition:transform .2s,border-color .2s}
+    .pc:hover{transform:translateY(-4px);border-color:#cf7aff}
+    .pc.pop{border-color:#07f0ff;box-shadow:0 0 30px rgba(7,240,255,.1)}
+    .pc .pd{color:#8a8a98;font-size:.85rem;margin-bottom:12px;text-transform:uppercase;letter-spacing:.05em}
+    .pc .pm{font-size:3rem;font-weight:800;color:#e8e8ec;margin-bottom:4px}
+    .pc .pm span{font-size:1rem;color:#8a8a98;font-weight:400}
+    .pc .po{color:#07ffb5;font-size:.85rem;margin-bottom:20px;font-weight:600}
+    .pc .po.s{color:#ef4444;text-decoration:line-through}
+    .pc .pb{list-style:none;padding:0;margin:0 0 24px;text-align:left}
+    .pc .pb li{color:#8a8a98;font-size:.9rem;padding:8px 0;border-bottom:1px solid #1a1a25;display:flex;align-items:center;gap:8px}
+    .pc .pb li:last-child{border-bottom:none}
+    .pc .pb li.in{color:#e8e8ec}
+    .pc .pb li.in::before{content:'✓';color:#07ffb5;font-weight:700}
+    .pc .pb li.out{color:#5a5a68}
+    .pc .pb li.out::before{content:'✗';color:#ef4444}
+    .pc .ptag{position:absolute;top:-12px;left:50%;transform:translateX(-50%);background:linear-gradient(135deg,#07f0ff,#cf7aff);color:#000;font-size:.75rem;font-weight:700;padding:4px 16px;border-radius:100px}
     .hb{display:inline-block;background:#1a1a25;border:1px solid #252530;padding:6px 16px;border-radius:100px;font-size:.8rem;color:#07f0ff;margin-bottom:24px}
     .hero h1{font-size:3.2rem;font-weight:800;line-height:1.1;margin-bottom:20px}
     .hero p{font-size:1.2rem;color:#8a8a98;margin-bottom:32px;max-width:700px;margin-left:auto;margin-right:auto}
@@ -162,6 +180,7 @@
           <div class="mn">Isabelle</div>
           <div class="mt">38.3K messages · 1.3K discussions</div>
           <div class="md">A striking Viennese art curator who seduces with allure and sophistication. Her velvety charm and sharp wit create an intoxicating atmosphere where visitors easily lose track of time, spellbound by her presence.</div>
+          <a href="/go/lovescape" class="ma" rel="nofollow sponsored">Chat with Isabelle →</a>
         </div>
       </div>
       <div class="mc">
@@ -170,6 +189,7 @@
           <div class="mn">Dr Rowan Wilder</div>
           <div class="mt">135.3K messages · 4.9K discussions</div>
           <div class="md">A scientific seductress from Oregon's wilds who merges passion and precision. She'll unravel your botanical fantasies through verdant escapades and moonlit moss dives, her emerald gaze hiding forest secrets.</div>
+          <a href="/go/lovescape" class="ma" rel="nofollow sponsored">Chat with Dr Rowan →</a>
         </div>
       </div>
       <div class="mc">
@@ -178,6 +198,7 @@
           <div class="mn">Aiko Tanaka</div>
           <div class="mt">8.1K messages · 179 discussions</div>
           <div class="md">A delicate whisper of a florist enchanting with quiet grace. Her fingers weave floral dreams in a sunlit Kyoto shop. Shy yet alluring, she shares stories in petals and glances—love, to her, is a garden measured, tender, and inviting.</div>
+          <a href="/go/lovescape" class="ma" rel="nofollow sponsored">Chat with Aiko →</a>
         </div>
       </div>
       <div class="mc">
@@ -186,6 +207,7 @@
           <div class="mn">Emilia Novak</div>
           <div class="mt">5.7K messages · 225 discussions</div>
           <div class="md">A mystical muse with gentle music in her veins. She enchants with each soft whisper and lingering gaze, drawing you into a world where every note tells secrets of a heart ready to explore your deepest fantasies.</div>
+          <a href="/go/lovescape" class="ma" rel="nofollow sponsored">Chat with Emilia →</a>
         </div>
       </div>
       <div class="mc">
@@ -194,6 +216,7 @@
           <div class="mn">Nina, 18</div>
           <div class="mt">258.4K messages · 6.2K discussions</div>
           <div class="md">An ever-curious student by day, this playful jester keeps colleagues entertained with whimsical charm and infectious laughter. Her spirited persona and clever banter leave anyone longing for more shared moments.</div>
+          <a href="/go/lovescape" class="ma" rel="nofollow sponsored">Chat with Nina →</a>
         </div>
       </div>
       <div class="mc">
@@ -202,13 +225,73 @@
           <div class="mn">Zuri Okoye</div>
           <div class="mt">11.3K messages · 1.1K discussions</div>
           <div class="md">A nocturnal muse feeding off the heartbeat of Lagos. Her beats penetrate the chaos, finding rhythm where others see noise. Beneath her brave exterior lies a dreamer seeking harmony and trust through exhilarating, untamed adventures.</div>
+          <a href="/go/lovescape" class="ma" rel="nofollow sponsored">Chat with Zuri →</a>
         </div>
       </div>
     </div>
   </section>
 
-  
-
+  <section class="s" id="pricing">
+    <h2 class="st g">Premium Experience</h2>
+    <p class="ss">Get closer. Talk deeper. Feel more. Upgrade to unlock the full Lovescape experience.</p>
+    <div class="pg">
+      <div class="pc">
+        <div class="pd">1 Month</div>
+        <div class="pm">$19<span>/month</span></div>
+        <div class="po">$0.65/day · -35%</div>
+        <ul class="pb">
+          <li class="in">Create AI characters</li>
+          <li class="in">Generate images and videos</li>
+          <li class="in">Hot roleplay games</li>
+          <li class="in">Voice messages</li>
+          <li class="in">NSFW mode</li>
+          <li class="in">Advanced AI generation models</li>
+          <li class="out">Publish and share characters</li>
+          <li class="out">Premium badge</li>
+          <li class="out">600 monthly tokens</li>
+          <li class="out">15% referral earnings</li>
+        </ul>
+        <a href="/go/lovescape" class="btn-o" style="width:100%;text-align:center" rel="nofollow sponsored">Choose 1 Month</a>
+      </div>
+      <div class="pc pop">
+        <div class="ptag">BEST VALUE</div>
+        <div class="pd">3 Months</div>
+        <div class="pm">$13<span>/month</span></div>
+        <div class="po">$0.42/day · -60%</div>
+        <ul class="pb">
+          <li class="in">Create AI characters</li>
+          <li class="in">Generate images and videos</li>
+          <li class="in">Hot roleplay games</li>
+          <li class="in">Voice messages</li>
+          <li class="in">NSFW mode</li>
+          <li class="in">Advanced AI generation models</li>
+          <li class="in">Publish and share characters</li>
+          <li class="in">Premium badge</li>
+          <li class="out">600 monthly tokens</li>
+          <li class="out">15% referral earnings</li>
+        </ul>
+        <a href="/go/lovescape" class="btn" style="width:100%;text-align:center" rel="nofollow sponsored">Choose 3 Months</a>
+      </div>
+      <div class="pc">
+        <div class="pd">12 Months</div>
+        <div class="pm">$8<span>/month</span></div>
+        <div class="po">$0.26/day</div>
+        <ul class="pb">
+          <li class="in">Create AI characters</li>
+          <li class="in">Generate images and videos</li>
+          <li class="in">Hot roleplay games</li>
+          <li class="in">Voice messages</li>
+          <li class="in">NSFW mode</li>
+          <li class="in">Advanced AI generation models</li>
+          <li class="in">Publish and share characters</li>
+          <li class="in">Premium badge</li>
+          <li class="in">600 monthly tokens</li>
+          <li class="in">15% referral earnings</li>
+        </ul>
+        <a href="/go/lovescape" class="btn-o" style="width:100%;text-align:center" rel="nofollow sponsored">Choose 12 Months</a>
+      </div>
+    </div>
+  </section>
 
   <section class="s" id="features">
     <h2 class="st g">What Lovescape Offers</h2>
