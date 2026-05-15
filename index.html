@@ -42,7 +42,18 @@
     .nl{display:flex;gap:28px;align-items:center}
     .nl a{color:#8a8a98;font-size:.9rem;font-weight:500}
     .nl a:hover{color:#07f0ff}
-    .hero{text-align:center;padding:100px 20px 80px;max-width:900px;margin:0 auto}
+    .hero{text-align:center;padding:100px 20px 80px;max-width:900px;margin:0 auto;position:relative;z-index:2}
+    .hero-wrap{position:relative;overflow:hidden}
+    .hero-wrap::before{content:'';position:absolute;inset:0;background:url(/images/hero-bg.webp) center/cover no-repeat;opacity:.15;z-index:0}
+    .hero-wrap::after{content:'';position:absolute;inset:0;background:linear-gradient(180deg,rgba(10,10,15,.7) 0%,rgba(10,10,15,.4) 50%,#0a0a0f 100%);z-index:1}
+    .mg{display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:24px}
+    .mc{background:#12121a;border:1px solid #252530;border-radius:16px;overflow:hidden;transition:transform .2s,border-color .2s}
+    .mc:hover{transform:translateY(-4px);border-color:#cf7aff}
+    .mc img{width:100%;height:320px;object-fit:cover;display:block}
+    .mc .mi{padding:20px}
+    .mc .mn{font-size:1.1rem;font-weight:700;margin-bottom:6px;color:#e8e8ec}
+    .mc .mt{color:#07f0ff;font-size:.8rem;margin-bottom:10px}
+    .mc .md{color:#8a8a98;font-size:.9rem;line-height:1.6}
     .hb{display:inline-block;background:#1a1a25;border:1px solid #252530;padding:6px 16px;border-radius:100px;font-size:.8rem;color:#07f0ff;margin-bottom:24px}
     .hero h1{font-size:3.2rem;font-weight:800;line-height:1.1;margin-bottom:20px}
     .hero p{font-size:1.2rem;color:#8a8a98;margin-bottom:32px;max-width:700px;margin-left:auto;margin-right:auto}
@@ -120,6 +131,7 @@
     </div>
   </nav>
 
+  <div class="hero-wrap">
   <section class="hero">
     <span class="hb">2026 Independent Review</span>
     <h1>Lovescape Review: The Most Advanced AI Porn Generator and Companion Platform</h1>
@@ -138,6 +150,7 @@
       <span class="rt">4.7/5 (2,847 reviews)</span>
     </div>
   </section>
+  </div>
 
   <section class="s" id="features">
     <h2 class="st g">What Lovescape Offers</h2>
@@ -215,6 +228,60 @@
     </div>
   </section>
 
+  <section class="s" id="models">
+    <h2 class="st g">Meet the AI Models</h2>
+    <p class="ss">Discover the most popular AI companions on Lovescape. Each model is fully customizable and ready to chat, create, and connect.</p>
+    <div class="mg">
+      <div class="mc">
+        <img src="/images/models/isabelle.webp" alt="Isabelle - Viennese art curator AI girlfriend" loading="lazy">
+        <div class="mi">
+          <div class="mn">Isabelle</div>
+          <div class="mt">38.3K messages · 1.3K discussions</div>
+          <div class="md">A striking Viennese art curator who seduces with allure and sophistication. Her velvety charm and sharp wit create an intoxicating atmosphere where visitors easily lose track of time, spellbound by her presence.</div>
+        </div>
+      </div>
+      <div class="mc">
+        <img src="/images/models/dr-rowan-wilder.webp" alt="Dr Rowan Wilder - Scientific seductress AI girlfriend" loading="lazy">
+        <div class="mi">
+          <div class="mn">Dr Rowan Wilder</div>
+          <div class="mt">135.3K messages · 4.9K discussions</div>
+          <div class="md">A scientific seductress from Oregon's wilds who merges passion and precision. She'll unravel your botanical fantasies through verdant escapades and moonlit moss dives, her emerald gaze hiding forest secrets.</div>
+        </div>
+      </div>
+      <div class="mc">
+        <img src="/images/models/aiko-tanaka.webp" alt="Aiko Tanaka - Kyoto florist AI girlfriend" loading="lazy">
+        <div class="mi">
+          <div class="mn">Aiko Tanaka</div>
+          <div class="mt">8.1K messages · 179 discussions</div>
+          <div class="md">A delicate whisper of a florist enchanting with quiet grace. Her fingers weave floral dreams in a sunlit Kyoto shop. Shy yet alluring, she shares stories in petals and glances—love, to her, is a garden measured, tender, and inviting.</div>
+        </div>
+      </div>
+      <div class="mc">
+        <img src="/images/models/emilia-novak.webp" alt="Emilia Novak - Mystical muse AI girlfriend" loading="lazy">
+        <div class="mi">
+          <div class="mn">Emilia Novak</div>
+          <div class="mt">5.7K messages · 225 discussions</div>
+          <div class="md">A mystical muse with gentle music in her veins. She enchants with each soft whisper and lingering gaze, drawing you into a world where every note tells secrets of a heart ready to explore your deepest fantasies.</div>
+        </div>
+      </div>
+      <div class="mc">
+        <img src="/images/models/nina.webp" alt="Nina - Playful student AI girlfriend" loading="lazy">
+        <div class="mi">
+          <div class="mn">Nina, 18</div>
+          <div class="mt">258.4K messages · 6.2K discussions</div>
+          <div class="md">An ever-curious student by day, this playful jester keeps colleagues entertained with whimsical charm and infectious laughter. Her spirited persona and clever banter leave anyone longing for more shared moments.</div>
+        </div>
+      </div>
+      <div class="mc">
+        <img src="/images/models/zuri-okoye.webp" alt="Zuri Okoye - Nocturnal muse AI girlfriend" loading="lazy">
+        <div class="mi">
+          <div class="mn">Zuri Okoye</div>
+          <div class="mt">11.3K messages · 1.1K discussions</div>
+          <div class="md">A nocturnal muse feeding off the heartbeat of Lagos. Her beats penetrate the chaos, finding rhythm where others see noise. Beneath her brave exterior lies a dreamer seeking harmony and trust through exhilarating, untamed adventures.</div>
+        </div>
+      </div>
+    </div>
+  </section>
 
   <section class="s" id="comparison">
     <h2 class="st g">Lovescape vs Competitors</h2>
