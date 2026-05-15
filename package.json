@@ -1,0 +1,9 @@
+{
+  "name": "love-scape-ai",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Love-Scape AI - Lovescape Review Site",
+  "scripts": {
+    "build": "echo 'Static site - no build needed'"
+  }
+}
