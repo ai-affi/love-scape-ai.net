@@ -1,24 +1,69 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://love-scape-ai.net/</loc>
     <lastmod>2026-05-15</lastmod>
     <priority>1.0</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://love-scape-ai.net/" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://love-scape-ai.net/fr-FR/" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://love-scape-ai.net/de-DE/" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://love-scape-ai.net/es-ES/" />
-    <xhtml:link rel="alternate" hreflang="it" href="https://love-scape-ai.net/it-IT/" />
-    <xhtml:link rel="alternate" hreflang="nl" href="https://love-scape-ai.net/nl-NL/" />
-    <xhtml:link rel="alternate" hreflang="pl" href="https://love-scape-ai.net/pl-PL/" />
-    <xhtml:link rel="alternate" hreflang="pt" href="https://love-scape-ai.net/pt-PT/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://love-scape-ai.net/ru-RU/" />
-    <xhtml:link rel="alternate" hreflang="tr" href="https://love-scape-ai.net/tr-TR/" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://love-scape-ai.net/ja-JP/" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://love-scape-ai.net/ko-KR/" />
-    <xhtml:link rel="alternate" hreflang="id" href="https://love-scape-ai.net/id-ID/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://love-scape-ai.net/" />
+  </url>
+  <url>
+    <loc>https://love-scape-ai.net/fr-FR/</loc>
+    <lastmod>2026-05-15</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://love-scape-ai.net/de-DE/</loc>
+    <lastmod>2026-05-15</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://love-scape-ai.net/es-ES/</loc>
+    <lastmod>2026-05-15</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://love-scape-ai.net/it-IT/</loc>
+    <lastmod>2026-05-15</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://love-scape-ai.net/nl-NL/</loc>
+    <lastmod>2026-05-15</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://love-scape-ai.net/pl-PL/</loc>
+    <lastmod>2026-05-15</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://love-scape-ai.net/pt-PT/</loc>
+    <lastmod>2026-05-15</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://love-scape-ai.net/ru-RU/</loc>
+    <lastmod>2026-05-15</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://love-scape-ai.net/tr-TR/</loc>
+    <lastmod>2026-05-15</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://love-scape-ai.net/ja-JP/</loc>
+    <lastmod>2026-05-15</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://love-scape-ai.net/ko-KR/</loc>
+    <lastmod>2026-05-15</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://love-scape-ai.net/id-ID/</loc>
+    <lastmod>2026-05-15</lastmod>
+    <priority>0.9</priority>
   </url>
   <url>
     <loc>https://love-scape-ai.net/privacy.html</loc>
