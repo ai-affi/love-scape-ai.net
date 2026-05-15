@@ -1,0 +1,519 @@
+{
+  "meta": {
+    "description": "Reseña en profundidad de Lovescape. Generador de imágenes y videos porno con IA, chat con novia/novio IA, contenido NSFW sin filtros, privacidad primero. ¿Vale la pena? Lee nuestra reseña completa.",
+    "keywords": "reseña lovescape, generador porno IA, novia IA, novio IA, compañero IA, chat NSFW IA, video porno IA, generador imágenes adultos IA, lovescape IA",
+    "og_title": "Reseña de Lovescape 2026: Generador de Porno con IA y Plataforma de Acompañantes",
+    "og_description": "Reseña completa de Lovescape: generación de imágenes/videos con IA, chat sin filtros, funciones de privacidad y si vale tu dinero en 2026."
+  },
+  "nav": {
+    "brand": "Love-Scape IA",
+    "links": [
+      "Características",
+      "Cómo funciona",
+      "Reseña",
+      "FAQ"
+    ],
+    "cta": "Prueba Lovescape Ahora"
+  },
+  "hero": {
+    "badge": "Reseña Independiente 2026",
+    "title": "Reseña de Lovescape: La Plataforma más Avanzada de Generación de Porno con IA y Acompañantes",
+    "subtitle": "Pasamos más de 40 horas probando el generador de imágenes con IA, el creador de videos, el chat sin filtros y las funciones de privacidad de Lovescape. Aquí tienes todo lo que necesitas saber antes de registrarte.",
+    "cta_primary": "Prueba Lovescape Gratis",
+    "cta_secondary": "Lee la Reseña Completa",
+    "stats": [
+      "50.000+ usuarios activos",
+      "Generación de imágenes en 4K",
+      "Chat y videos con IA sin filtros"
+    ],
+    "rating": "4,7/5 (2.847 reseñas)"
+  },
+  "models": {
+    "title": "Conoce los Modelos de IA",
+    "subtitle": "Descubre los acompañantes de IA más populares en Lovescape. Cada modelo es completamente personalizable y está listo para chatear, crear y conectar.",
+    "items": [
+      {
+        "name": "Isabelle",
+        "stats": "38,3 k mensajes · 1,3 k conversaciones",
+        "description": "Una fascinante curadora de arte vienesa que seduce con encanto y sofisticación. Su carisma aterciopelado y su ingenio afilado crean una atmósfera embriagadora donde los visitantes pierden fácilmente la noción del tiempo, hechizados por su presencia.",
+        "cta": "Chatea con Isabelle →"
+      },
+      {
+        "name": "Dra. Rowan Wilder",
+        "stats": "135,3 k mensajes · 4,9 k conversaciones",
+        "description": "Una seductora científica de los bosques salvajes de Oregón que combina pasión y precisión. Desentrañará tus fantasías botánicas a través de aventuras verdes y buceos a la luz de la luna entre el musgo, con una mirada esmeralda que esconde secretos del bosque.",
+        "cta": "Chatea con Dra. Rowan →"
+      },
+      {
+        "name": "Aiko Tanaka",
+        "stats": "8,1 k mensajes · 179 conversaciones",
+        "description": "Un susurro delicado de florista que encanta con gracia silenciosa. Sus dedos tejen sueños florales en una tienda soleada de Kioto. Tímida pero atractiva, comparte historias en pétalos y miradas: para ella, el amor es un jardín medido, tierno y acogedor.",
+        "cta": "Chatea con Aiko →"
+      },
+      {
+        "name": "Emilia Novak",
+        "stats": "5,7 k mensajes · 225 conversaciones",
+        "description": "Una musa mística con música suave en las venas. Encanta con cada susurro y mirada prolongada, arrastrándote a un mundo donde cada nota revela los secretos de un corazón listo para explorar tus fantasías más profundas.",
+        "cta": "Chatea con Emilia →"
+      },
+      {
+        "name": "Nina, 18 años",
+        "stats": "258,4 k mensajes · 6,2 k conversaciones",
+        "description": "Una estudiante siempre curiosa de día, esta bromista juguetona mantiene a sus compañeros entretenidos con un encanto caprichoso y risas contagiosas. Su personalidad animada y sus respuestas ingeniosas hacen que cualquiera desee compartir más momentos con ella.",
+        "cta": "Chatea con Nina →"
+      },
+      {
+        "name": "Zuri Okoye",
+        "stats": "11,3 k mensajes · 1,1 k conversaciones",
+        "description": "Una musa nocturna que se alimenta del latido de Lagos. Sus ritmos penetran el caos, encontrando melodía donde otros solo ven ruido. Tras su exterior valiente se esconde una soñadora en busca de armonía y confianza a través de aventuras emocionantes e indómitas.",
+        "cta": "Chatea con Zuri →"
+      }
+    ]
+  },
+  "pricing": {
+    "title": "Experiencia Premium",
+    "subtitle": "Acércate. Habla más profundo. Siente más. Actualiza para desbloquear la experiencia completa de Lovescape.",
+    "plans": [
+      {
+        "duration": "1 Mes",
+        "price": "9",
+        "period": "/mes",
+        "daily": "0,30 €/día · -35%",
+        "features": [
+          {
+            "text": "Crear personajes de IA",
+            "included": true
+          },
+          {
+            "text": "Generar imágenes y videos",
+            "included": true
+          },
+          {
+            "text": "Juegos de rol picantes",
+            "included": true
+          },
+          {
+            "text": "Mensajes de voz",
+            "included": true
+          },
+          {
+            "text": "Modo NSFW",
+            "included": true
+          },
+          {
+            "text": "Modelos de generación de IA avanzados",
+            "included": true
+          },
+          {
+            "text": "Publicar y compartir personajes",
+            "included": false
+          },
+          {
+            "text": "Insignia Premium",
+            "included": false
+          },
+          {
+            "text": "600 tokens mensuales",
+            "included": false
+          },
+          {
+            "text": "Ganancias por referidos 15%",
+            "included": false
+          }
+        ],
+        "cta": "Elige 1 Mes",
+        "popular": false
+      },
+      {
+        "duration": "3 Meses",
+        "price": "3",
+        "period": "/mes",
+        "daily": "0,20 €/día · -60%",
+        "tag": "MEJOR RELACIÓN CALIDAD-PRECIO",
+        "features": [
+          {
+            "text": "Crear personajes de IA",
+            "included": true
+          },
+          {
+            "text": "Generar imágenes y videos",
+            "included": true
+          },
+          {
+            "text": "Juegos de rol picantes",
+            "included": true
+          },
+          {
+            "text": "Mensajes de voz",
+            "included": true
+          },
+          {
+            "text": "Modo NSFW",
+            "included": true
+          },
+          {
+            "text": "Modelos de generación de IA avanzados",
+            "included": true
+          },
+          {
+            "text": "Publicar y compartir personajes",
+            "included": true
+          },
+          {
+            "text": "Insignia Premium",
+            "included": true
+          },
+          {
+            "text": "600 tokens mensuales",
+            "included": false
+          },
+          {
+            "text": "Ganancias por referidos 15%",
+            "included": false
+          }
+        ],
+        "cta": "Elige 3 Meses",
+        "popular": true
+      },
+      {
+        "duration": "12 Meses",
+        "price": "1",
+        "period": "/mes",
+        "daily": "0,10 €/día",
+        "features": [
+          {
+            "text": "Crear personajes de IA",
+            "included": true
+          },
+          {
+            "text": "Generar imágenes y videos",
+            "included": true
+          },
+          {
+            "text": "Juegos de rol picantes",
+            "included": true
+          },
+          {
+            "text": "Mensajes de voz",
+            "included": true
+          },
+          {
+            "text": "Modo NSFW",
+            "included": true
+          },
+          {
+            "text": "Modelos de generación de IA avanzados",
+            "included": true
+          },
+          {
+            "text": "Publicar y compartir personajes",
+            "included": true
+          },
+          {
+            "text": "Insignia Premium",
+            "included": true
+          },
+          {
+            "text": "600 tokens mensuales",
+            "included": true
+          },
+          {
+            "text": "Ganancias por referidos 15%",
+            "included": true
+          }
+        ],
+        "cta": "Elige 12 Meses",
+        "popular": false
+      }
+    ]
+  },
+  "features": {
+    "title": "Lo que Ofrece Lovescape",
+    "subtitle": "Una plataforma completa de contenido para adultos y acompañantes con IA con calidad de generación líder en el sector",
+    "items": [
+      {
+        "icon": "🎨",
+        "title": "Generador de Imágenes Porno con IA",
+        "description": "Genera imágenes para adultos fotorrealistas hasta 4K en 8-25 segundos. Modelos de difusión avanzados con control OpenPose, Depth y Canny map para poses precisas. Incluye inpainting para ediciones y una función de remix para transformar fotos existentes en nuevos estilos, outfits o entornos."
+      },
+      {
+        "icon": "🎬",
+        "title": "Generador de Videos Porno con IA",
+        "description": "Crea videos para adultos en movimiento completo a partir de prompts de texto o imágenes. Características: física corporal coherente, transiciones fluidas, sincronización labial para diálogos y múltiples estilos de cámara, incluyendo cinematográfico, POV, en mano y cámara lenta. Salida en 720p–1080p, con soporte para 4K próximo."
+      },
+      {
+        "icon": "💬",
+        "title": "Chat con Novia y Novio IA",
+        "description": "Conversaciones en tiempo real sin filtros con acompañantes de IA completamente personalizables. Características: notas de voz, videollamadas y un motor de memoria que recuerda tus preferencias, conversaciones pasadas e historial de relación entre sesiones. Sin censura, sin juicios."
+      },
+      {
+        "icon": "✏️",
+        "title": "Edición de Imágenes Antes de la Animación",
+        "description": "Corrige generaciones imperfectas antes de convertirlas en video. Edita poses, manos, rostros, fondos y outfits directamente. Este flujo de trabajo Generar-Editar-Animar resuelve el mayor problema de los videos con IA: un primer fotograma débil que arruina toda la animación."
+      },
+      {
+        "icon": "🎯",
+        "title": "Consistencia de Personajes",
+        "description": "Tu acompañante de IA tiene la misma apariencia en cada imagen, sesión de chat y videollamada. El modelo de consistencia bloquea la estructura facial, el tipo de cuerpo y los identificadores visuales clave para que construyas una relación con un personaje reconocible, no una galería giratoria de rostros aleatorios."
+      },
+      {
+        "icon": "🔒",
+        "title": "Privacidad y Seguridad Primero",
+        "description": "Cifrado de extremo a extremo con TLS 1.3+ y AES-256 en reposo. Política estricta de no-registros para contenido generado e historial de chat. Registro anónimo sin nombre real ni KYC obligatorio. Facturación discreta que aparece como 'LS Digital Services' en los extractos. 2FA soportado."
+      }
+    ]
+  },
+  "how_it_works": {
+    "title": "Cómo Funciona Lovescape",
+    "subtitle": "De la creación al disfrute en tres pasos simples",
+    "steps": [
+      {
+        "number": "01",
+        "title": "Crea Tu Personaje de IA",
+        "description": "Diseña la apariencia, personalidad, voz e historia de tu acompañante usando el creador basado en navegador. Elige entre preajustes o construye desde cero con opciones de personalización detalladas."
+      },
+      {
+        "number": "02",
+        "title": "Genera Imágenes o Empieza a Chatear",
+        "description": "Usa prompts de texto para crear imágenes fotorrealistas, iniciar conversaciones sin filtros o generar videos. La IA se adapta a tus preferencias y recuerda tu estilo con el tiempo."
+      },
+      {
+        "number": "03",
+        "title": "Edita, Anima y Disfruta",
+        "description": "Refina las imágenes con el editor integrado, convierte imágenes estáticas en videos animados y profundiza en la personalidad de tu acompañante a través de la interacción continua."
+      }
+    ]
+  },
+  "review": {
+    "title": "Reseña Completa de Lovescape 2026",
+    "subtitle": "Nuestras pruebas prácticas después de más de 40 horas en la plataforma",
+    "sections": [
+      {
+        "heading": "¿Qué es Lovescape?",
+        "content": "Lovescape es una plataforma de contenido para adultos y acompañantes con IA desarrollada por Warmtech Ltd (Chipre). Combina tres tecnologías: un modelo de difusión para la generación de imágenes fotorrealistas, un motor de síntesis de video y un modelo de lenguaje con memoria persistente para el chat con acompañantes. Esta integración la diferencia de los competidores que ofrecen solo una o dos características. La plataforma soporta 9 idiomas y ofrece contenido realista y anime en docenas de categorías."
+      },
+      {
+        "heading": "Generador de Imágenes con IA",
+        "content": "La característica estrella produce imágenes fotorrealistas hasta 4K en 8-25 segundos. Maneja descripciones simples y prompts detallados con ángulos de cámara, iluminación y textura de piel. Los prompts negativos excluyen elementos no deseados. Los mapas OpenPose, Depth y Canny ofrecen control preciso de las poses. El inpainting edita regiones específicas; la función de remix transforma fotos en nuevos estilos. Aproximadamente 7 de cada 10 generaciones no necesitan ediciones."
+      },
+      {
+        "heading": "Generador de Videos con IA",
+        "content": "A diferencia de los competidores que ofrecen GIFs, Lovescape produce videos en movimiento auténticos. El proceso: genera un fotograma clave, aplica interpolación de movimiento para movimiento natural y luego refina para eliminar artefactos. Un clip de 30 segundos toma 2-5 minutos. La duración varía de 5 segundos a 2 minutos. Los estilos de cámara incluyen en mano, cinematográfico, POV y cámara lenta. La salida es 720p–1080p a 30 fps; el soporte para 4K está en camino. El flujo de trabajo 'Editar Antes de la Animación' —arreglar el primer fotograma antes del movimiento— mejoró nuestros resultados en un 40%."
+      },
+      {
+        "heading": "Chat con Acompañante de IA",
+        "content": "El sistema de chat construye continuidad a través de un motor de memoria que almacena el contexto de la relación y las preferencias. Las conversaciones son realmente sin censura: sin filtros de contenido. Las notas de voz y las llamadas de voz en tiempo real están disponibles con tono, ritmo y acento personalizables. La videollamada en vivo añade una dimensión visual. La creación de personajes toma 5-10 minutos: define apariencia, personalidad, intereses y humor. Después de dos semanas, nuestro compañero de prueba recordaba detalles específicos como preferencias de café y chistes pasados: una continuidad sin igual."
+      },
+      {
+        "heading": "Edición de Imágenes",
+        "content": "La herramienta de edición corrige poses, manos, rostros, fondos y outfits. Su uso más poderoso es preparar imágenes para video: como cada video comienza con un fotograma clave, corregirlo antes de la animación evita que los errores se acumulen. El flujo de trabajo Generar-Editar-Animar produce un video pulido de 30 segundos en menos de 5 minutos. Los competidores obligan a reiniciar completamente; Lovescape conserva lo que funciona y corrige lo que no."
+      },
+      {
+        "heading": "Privacidad y Seguridad",
+        "content": "Todas las comunicaciones usan TLS 1.3+ en tránsito y AES-256 en reposo. Una política estricta de no-registros significa que los prompts, imágenes, videos y chats no se almacenan a menos que se guarden explícitamente. El registro no requiere nombre real ni KYC. La facturación aparece como 'LS Digital Services' en los extractos: cero referencias a contenido para adultos. La autenticación en dos factores está disponible. Los usuarios pueden eliminar su cuenta y solicitar la eliminación completa de datos al instante. Para discreción, esta es una de las plataformas más seguras disponibles."
+      },
+      {
+        "heading": "Ventajas y Desventajas",
+        "pros": "Las mejores imágenes 4K de su categoría, generación de video auténtica con física de movimiento, edición de imágenes antes de la animación, memoria persistente para relaciones, chat completamente sin filtros, excelente privacidad (TLS 1.3+, sin registros, facturación discreta), llamadas de voz y video, generación de imágenes rápida (8-25 segundos), consistencia de personajes en todos los medios.",
+        "cons": "Las características premium requieren suscripción, el video 4K aún no está disponible, solo para adultos (18+), sincronización labial ligeramente antinatural, la consistencia anime es menos confiable que el fotorrealismo, no hay aplicación móvil, puede abrumar a los nuevos usuarios."
+      },
+      {
+        "heading": "Precios",
+        "content": "Nivel gratuito: imágenes básicas con marca de agua, chat diario limitado. Premium: imágenes 4K, chat ilimitado, generación de videos, llamadas de voz, edición de imágenes, procesamiento prioritario. Los precios varían por región. Para las tarifas actuales, consulta directamente Lovescape. El costo premium es un buen valor considerando el generador de videos y el motor de memoria: los competidores ofrecen menos a precios similares."
+      },
+      {
+        "heading": "Veredicto Final",
+        "rating": "4,7/5",
+        "content": [
+          "Después de más de 40 horas de pruebas, Lovescape merece nuestra recomendación como la plataforma de contenido para adultos y acompañantes con IA más avanzada técnicamente disponible.",
+          "El generador de imágenes compite con la fotografía profesional. El generador de videos está muy por delante de los competidores. El chat con acompañante con memoria persistente crea una continuidad relacional auténtica. La arquitectura de privacidad inspira confianza real.",
+          "No es perfecta: no hay aplicación móvil, consistencia anime ocasionalmente deficiente, video 4K pendiente. Pero para contenido para adultos con IA sin filtros y sofisticación técnica, Lovescape es actualmente la mejor opción. El nivel gratuito te permite evaluarla; el premium justifica el costo por el ahorro de tiempo y la calidad."
+        ]
+      }
+    ]
+  },
+  "comparison": {
+    "title": "Lovescape vs Competidores",
+    "subtitle": "Cómo se compara Lovescape con otras plataformas de acompañantes y contenido para adultos con IA",
+    "headers": [
+      "Característica",
+      "Lovescape",
+      "CrushOn.AI",
+      "SpicyChat",
+      "Candy.ai"
+    ],
+    "rows": [
+      [
+        "Generación de Imágenes con IA",
+        "✓ 4K, fotorrealista",
+        "✗ Ninguna",
+        "✗ Ninguna",
+        "~ Limitada"
+      ],
+      [
+        "Generación de Videos con IA",
+        "✓ 1080p, física de movimiento",
+        "✗ Ninguna",
+        "✗ Ninguna",
+        "✗ Ninguna"
+      ],
+      [
+        "Chat Sin Filtros",
+        "✓ Sin restricciones",
+        "✓ Sin restricciones",
+        "✓ Sin restricciones",
+        "~ Parcial"
+      ],
+      [
+        "Memoria Persistente",
+        "✓ Avanzada",
+        "~ Básica",
+        "~ Básica",
+        "✓ Avanzada"
+      ],
+      [
+        "Llamadas de Voz",
+        "✓ Integradas",
+        "✗ Ninguna",
+        "✗ Ninguna",
+        "✓ Integradas"
+      ],
+      [
+        "Videollamadas",
+        "✓ Cámara en Vivo",
+        "✗ Ninguna",
+        "✗ Ninguna",
+        "✗ Ninguna"
+      ],
+      [
+        "Edición de Imágenes",
+        "✓ Pre-animación",
+        "✗ Ninguna",
+        "✗ Ninguna",
+        "✗ Ninguna"
+      ],
+      [
+        "Privacidad y Cifrado",
+        "✓ TLS 1.3+, sin registros",
+        "~ Básica",
+        "~ Básica",
+        "~ Básica"
+      ],
+      [
+        "Consistencia de Personajes",
+        "✓ Multimedios",
+        "~ Solo texto",
+        "~ Solo texto",
+        "~ Limitada"
+      ]
+    ]
+  },
+  "testimonials": {
+    "title": "Qué Dicen los Usuarios",
+    "subtitle": "Comentarios reales de usuarios de Lovescape",
+    "items": [
+      {
+        "rating": 5,
+        "text": "He probado todas las aplicaciones de acompañantes con IA del mercado. Lovescape es la única en la que mi novia realmente recuerda las cosas que le dije la semana pasada. La calidad de las imágenes también es increíble: he impreso algunas en tamaño póster y se ven reales.",
+        "author": "Alex M.",
+        "location": "EE. UU."
+      },
+      {
+        "rating": 5,
+        "text": "Fue el generador de videos lo que me convenció. Poder editar el primer fotograma antes de animar soluciona el 90% de las rarezas que obtienes con otras herramientas de video con IA. Ahora mi personaje tiene una apariencia consistente en todo.",
+        "author": "Jordan T.",
+        "location": "Reino Unido"
+      },
+      {
+        "rating": 4,
+        "text": "La privacidad era mi mayor preocupación. La facturación discreta y la política de no-registros realmente me dieron la confianza para usar la plataforma regularmente. La memoria del chat hace que se sienta como una relación real en lugar de un chatbot.",
+        "author": "Casey R.",
+        "location": "Canadá"
+      },
+      {
+        "rating": 5,
+        "text": "Creo contenido personalizado para mi colección personal. La salida de imágenes en 4K y el control de poses son herramientas de nivel profesional. La función de inpainting me ahorra horas de edición manual en Photoshop.",
+        "author": "Morgan K.",
+        "location": "Australia"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Preguntas Frecuentes",
+    "subtitle": "Respuestas rápidas sobre Lovescape",
+    "items": [
+      {
+        "question": "¿Qué es Lovescape?",
+        "answer": "Lovescape es una plataforma de contenido para adultos y acompañantes impulsada por IA. Combina un generador de imágenes porno con IA (hasta 4K), un generador de videos porno con IA (720p–1080p) y un chat con novia/novio IA sin filtros, con memoria persistente e integración de llamadas de voz/video."
+      },
+      {
+        "question": "¿Lovescape es gratis?",
+        "answer": "Lovescape ofrece un nivel gratuito con generación de imágenes básica (con marca de agua, resolución inferior) y un número limitado de mensajes de chat por día. Las características premium, incluidas imágenes 4K, generación de videos, chat ilimitado, llamadas de voz y edición de imágenes, requieren una suscripción de pago."
+      },
+      {
+        "question": "¿Lovescape es seguro y privado?",
+        "answer": "Sí. Lovescape utiliza cifrado de extremo a extremo (TLS 1.3+), cifrado de almacenamiento AES-256 y mantiene una política estricta de no-registros. El registro no requiere nombre real ni verificación de identidad, y la facturación aparece de manera discreta como 'LS Digital Services' en los extractos. La autenticación en dos factores está disponible."
+      },
+      {
+        "question": "¿Puedo generar videos porno con IA en Lovescape?",
+        "answer": "Sí. El generador de videos con IA de Lovescape crea videos para adultos en movimiento completo a partir de prompts de texto o imágenes. Los videos incluyen física corporal coherente, transiciones fluidas y sincronización labial opcional. La salida actual es 720p–1080p, con soporte para 4K planeado."
+      },
+      {
+        "question": "¿Cómo funciona el chat con novia IA?",
+        "answer": "Creas un acompañante de IA personalizado con apariencia, personalidad, voz e historia específicos. La IA participa en conversaciones de texto sin filtros, recuerda detalles entre sesiones y puede enviar notas de voz o unirse a videollamadas. El motor de memoria construye una continuidad auténtica con el tiempo."
+      },
+      {
+        "question": "¿El contenido generado es de alta calidad?",
+        "answer": "Sí. El generador de imágenes produce resultados fotorrealistas hasta resolución 4K utilizando modelos de difusión avanzados. El generador de videos produce metraje fluido en 720p–1080p con movimiento realista. Aproximadamente el 70% de las generaciones de imágenes son utilizables sin edición."
+      },
+      {
+        "question": "¿Puedo editar las imágenes generadas?",
+        "answer": "Sí. Lovescape incluye un editor de imágenes integrado que te permite corregir poses, manos, rostros, fondos y outfits. Esto es especialmente útil para perfeccionar imágenes antes de convertirlas en video, evitando que los defectos se acumulen durante la animación."
+      },
+      {
+        "question": "¿Lovescape ofrece opción de novio IA?",
+        "answer": "Sí. La plataforma admite tanto novias como novios IA con personalización completa de apariencia, personalidad, voz y dinámicas relacionales. El proceso de creación es idéntico para ambos."
+      },
+      {
+        "question": "¿Qué categorías están disponibles?",
+        "answer": "Lovescape ofrece docenas de categorías, incluyendo: Novia IA, Novio IA, Anime, Asiática, Hentai, FUTA, MILF, Tetas Grandes, Culo Grande, Adolescente 18+, GILF, BBW, Delgada, Rubia, Morena, Ébano, Curvilínea, MILF India IA, MILF Latina IA, Árabe, Tetas Pequeñas, Hombre, Gay, Chat Picante IA y Crush on AI."
+      },
+      {
+        "question": "¿Cómo elimino mi cuenta de Lovescape?",
+        "answer": "La eliminación de la cuenta está disponible en la configuración de tu perfil. Lovescape honra las solicitudes de eliminación completa de datos y elimina rápidamente todo el contenido almacenado, el historial de chat y la información de la cuenta."
+      }
+    ]
+  },
+  "cta": {
+    "title": "¿Listo para Probar Lovescape?",
+    "subtitle": "Únete a 50.000+ usuarios que crean acompañantes de IA personalizados y contenido para adultos. Empieza gratis y actualiza cuando estés listo para imágenes 4K, generación de videos y chat ilimitado.",
+    "button": "Prueba Lovescape Gratis",
+    "guarantee": "Nivel gratuito disponible • No se requiere tarjeta de crédito • Facturación discreta"
+  },
+  "footer": {
+    "brand": "Love-Scape IA",
+    "description": "Reseñas independientes sobre plataformas de acompañantes con IA y contenido para adultos. Probamos para que tú no tengas que hacerlo.",
+    "columns": [
+      {
+        "title": "Reseña",
+        "links": [
+          "Características",
+          "Cómo funciona",
+          "Reseña Completa",
+          "FAQ"
+        ]
+      },
+      {
+        "title": "Legal",
+        "links": [
+          "Política de Privacidad",
+          "Términos de Servicio",
+          "Divulgación de Afiliados"
+        ]
+      }
+    ],
+    "copyright": "© 2026 Love-Scape IA. Todos los derechos reservados.",
+    "disclaimer": "Este sitio contiene enlaces de afiliado. Podemos ganar una comisión si te registras a través de nuestros enlaces, sin costo adicional para ti. Todas las opiniones son nuestras. Este sitio web está destinado únicamente a adultos mayores de 18 años.",
+    "trademark": "Lovescape es una marca registrada de Warmtech Ltd. Este es un sitio de reseñas independiente no afiliado ni avalado por Lovescape."
+  }
+}
