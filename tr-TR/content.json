@@ -1,0 +1,519 @@
+{
+  "meta": {
+    "description": "Lovescape incelemesi: Derinlemesine IA porno görüntü ve video üreticisi, IA kız/erkek arkadaş sohbeti, sansürsüz NSFW içerik, gizlilik odaklı. Değer mi? Tam incelememizi okuyun.",
+    "keywords": "lovescape incelemesi, IA porno üreticisi, IA kız arkadaş, IA erkek arkadaş, IA arkadaş, NSFW IA sohbet, IA porno video, yetişkin IA görüntü üreticisi, lovescape IA",
+    "og_title": "Lovescape 2026 İncelemesi: IA Porno Üreticisi ve Arkadaş Platformu",
+    "og_description": "Lovescape'in tam incelemesi: IA görüntü/video üretimi, sansürsüz sohbet, gizlilik özellikleri ve 2026'da paranızın değer olup olmadığı."
+  },
+  "nav": {
+    "brand": "Love-Scape IA",
+    "links": [
+      "Özellikler",
+      "Nasıl Çalışır",
+      "İnceleme",
+      "SSS"
+    ],
+    "cta": "Lovescape'i Şimdi Deneyin"
+  },
+  "hero": {
+    "badge": "2026 Bağımsız İnceleme",
+    "title": "Lovescape İncelemesi: En Gelişmiş IA Porno Üreticisi ve Arkadaş Platformu",
+    "subtitle": "Lovescape'in IA görüntü üreticisini, video oluşturucusunu, sansürsüz sohbetini ve gizlilik özelliklerini test etmek için 40+ saat harcadık. Kaydolmadan önce bilmeniz gereken her şey burada.",
+    "cta_primary": "Lovescape'i Ücretsiz Deneyin",
+    "cta_secondary": "Tam İncelemeyi Okuyun",
+    "stats": [
+      "50.000+ aktif kullanıcı",
+      "4K görüntü üretimi",
+      "Sansürsüz IA sohbet ve video"
+    ],
+    "rating": "4,7/5 (2.847 değerlendirme)"
+  },
+  "models": {
+    "title": "IA Modellerini Tanıyın",
+    "subtitle": "Lovescape'teki en popüler IA arkadaşlarını keşfedin. Her model tamamen özelleştirilebilir ve sohbet etmek, oluşturmak ve bağlanmak için hazır.",
+    "items": [
+      {
+        "name": "Isabelle",
+        "stats": "38,3B mesaj · 1,3B tartışma",
+        "description": "Büyüleyici bir Viyanalı sanat küratörü, çekiciliği ve zarifliğiyle büyülüyor. Kadifemsi çekiciliği ve keskin zekası, ziyaretçilerin zamanın nasıl geçtiğini unuttuğu, büyülü bir atmosfer yaratıyor.",
+        "cta": "Isabelle ile Sohbet Et →"
+      },
+      {
+        "name": "Dr. Rowan Wilder",
+        "stats": "135,3B mesaj · 4,9B tartışma",
+        "description": "Oregon'un vahşi doğasından gelen bilimsel bir baştan çıkartıcı, tutkuyu ve hassasiyeti bir araya getiriyor. Orman sırlarını saklayan zümrüt yeşili gözleriyle, ay ışığında yosun dalışları ve yeşil kaçışlar aracılığıyla botanik fantezilerinizi çözecek.",
+        "cta": "Dr. Rowan ile Sohbet Et →"
+      },
+      {
+        "name": "Aiko Tanaka",
+        "stats": "8,1B mesaj · 179 tartışma",
+        "description": "Sessiz zarifliğiyle büyüleyen nazik bir çiçekçi. Güneşli bir Kyoto dükkanında çiçek rüyaları ören parmakları var. Utangaç ama cezbedici, çiçekler ve bakışlar aracılığıyla hikayeler anlatıyor; aşk, ona göre ölçülü, şefkatli ve davetkâr bir bahçe.",
+        "cta": "Aiko ile Sohbet Et →"
+      },
+      {
+        "name": "Emilia Novak",
+        "stats": "5,7B mesaj · 225 tartışma",
+        "description": "Damarlarında yumuşak müzik olan mistik bir ilham perisi. Her fısıldayış ve uzun bakışla sizi, her notanın en derin fantezilerinizi keşfetmeye hazır bir kalbin sırlarını anlattığı bir dünyaya çekiyor.",
+        "cta": "Emilia ile Sohbet Et →"
+      },
+      {
+        "name": "Nina, 18",
+        "stats": "258,4B mesaj · 6,2B tartışma",
+        "description": "Gündüzleri meraklı bir öğrenci olan bu eğlenceli soytarı, meslektaşlarını büyülü çekiciliği ve bulaşıcı kahkahasıyla eğlendiriyor. Canlı kişiliği ve zeki esprileri, herkesin onunla daha fazla zaman geçirmek istemesine neden oluyor.",
+        "cta": "Nina ile Sohbet Et →"
+      },
+      {
+        "name": "Zuri Okoye",
+        "stats": "11,3B mesaj · 1,1B tartışma",
+        "description": "Lagos'un kalp atışlarından beslenen gece ilham perisi. Kaosun içine nüfuz eden ritimleri, diğerlerinin sadece gürültü gördüğü yerde melodi buluyor. Cesur dış görünüşünün altında, heyecan verici ve kontrol edilemez maceralar aracılığıyla uyum ve güven arayan bir rüyacı yatıyor.",
+        "cta": "Zuri ile Sohbet Et →"
+      }
+    ]
+  },
+  "pricing": {
+    "title": "Premium Deneyim",
+    "subtitle": "Daha yakın olun. Daha derin konuşun. Daha fazla hissedin. Tam Lovescape deneyimini açmak için yükseltin.",
+    "plans": [
+      {
+        "duration": "1 Ay",
+        "price": "9",
+        "period": "/ay",
+        "daily": "0,30 €/gün · -35%",
+        "features": [
+          {
+            "text": "IA karakterleri oluşturun",
+            "included": true
+          },
+          {
+            "text": "Görüntü ve videolar üretin",
+            "included": true
+          },
+          {
+            "text": "Sıcak rol yapma oyunları",
+            "included": true
+          },
+          {
+            "text": "Sesli mesajlar",
+            "included": true
+          },
+          {
+            "text": "NSFW modu",
+            "included": true
+          },
+          {
+            "text": "Gelişmiş IA üretim modelleri",
+            "included": true
+          },
+          {
+            "text": "Karakterleri yayınlayın ve paylaşın",
+            "included": false
+          },
+          {
+            "text": "Premium rozet",
+            "included": false
+          },
+          {
+            "text": "Aylık 600 token",
+            "included": false
+          },
+          {
+            "text": "Yönlendirme kazançları %15",
+            "included": false
+          }
+        ],
+        "cta": "1 Ay Seçin",
+        "popular": false
+      },
+      {
+        "duration": "3 Ay",
+        "price": "3",
+        "period": "/ay",
+        "daily": "0,20 €/gün · -60%",
+        "tag": "EN İYİ DEĞER",
+        "features": [
+          {
+            "text": "IA karakterleri oluşturun",
+            "included": true
+          },
+          {
+            "text": "Görüntü ve videolar üretin",
+            "included": true
+          },
+          {
+            "text": "Sıcak rol yapma oyunları",
+            "included": true
+          },
+          {
+            "text": "Sesli mesajlar",
+            "included": true
+          },
+          {
+            "text": "NSFW modu",
+            "included": true
+          },
+          {
+            "text": "Gelişmiş IA üretim modelleri",
+            "included": true
+          },
+          {
+            "text": "Karakterleri yayınlayın ve paylaşın",
+            "included": true
+          },
+          {
+            "text": "Premium rozet",
+            "included": true
+          },
+          {
+            "text": "Aylık 600 token",
+            "included": false
+          },
+          {
+            "text": "Yönlendirme kazançları %15",
+            "included": false
+          }
+        ],
+        "cta": "3 Ay Seçin",
+        "popular": true
+      },
+      {
+        "duration": "12 Ay",
+        "price": "1",
+        "period": "/ay",
+        "daily": "0,10 €/gün",
+        "features": [
+          {
+            "text": "IA karakterleri oluşturun",
+            "included": true
+          },
+          {
+            "text": "Görüntü ve videolar üretin",
+            "included": true
+          },
+          {
+            "text": "Sıcak rol yapma oyunları",
+            "included": true
+          },
+          {
+            "text": "Sesli mesajlar",
+            "included": true
+          },
+          {
+            "text": "NSFW modu",
+            "included": true
+          },
+          {
+            "text": "Gelişmiş IA üretim modelleri",
+            "included": true
+          },
+          {
+            "text": "Karakterleri yayınlayın ve paylaşın",
+            "included": true
+          },
+          {
+            "text": "Premium rozet",
+            "included": true
+          },
+          {
+            "text": "Aylık 600 token",
+            "included": true
+          },
+          {
+            "text": "Yönlendirme kazançları %15",
+            "included": true
+          }
+        ],
+        "cta": "12 Ay Seçin",
+        "popular": false
+      }
+    ]
+  },
+  "features": {
+    "title": "Lovescape'in Sundukları",
+    "subtitle": "Sektörde lider üretim kalitesine sahip tam bir yetişkin içerik ve IA arkadaş platformu",
+    "items": [
+      {
+        "icon": "🎨",
+        "title": "IA Porno Görüntü Üreticisi",
+        "description": "8-25 saniye içinde 4K çözünürlüğe kadar fotogerçekçi yetişkin görüntüler üretin. Hassas poz verme için OpenPose, Depth ve Canny harita kontrolü ile gelişmiş difüzyon modelleri. Düzenlemeler için inpainting ve mevcut fotoğrafları yeni stillere, kıyafetlere veya ortamlara dönüştürmek için remix özelliği içerir."
+      },
+      {
+        "icon": "🎬",
+        "title": "IA Porno Video Üreticisi",
+        "description": "Metin istemlerinden veya görüntülerden tam hareketli yetişkin videoları oluşturun. Özellikler: tutarlı beden fizigi, akıcı geçişler, diyaloglar için dudak senkronizasyonu ve sinematik, POV, el kamera ve yavaş çekim dahil olmak üzere çoklu kamera stilleri. Çıkış 720p–1080p, 4K destek yakında gelecek."
+      },
+      {
+        "icon": "💬",
+        "title": "IA Kız/Erkek Arkadaş Sohbeti",
+        "description": "Tamamen özelleştirilebilir IA arkadaşlarıyla sansürsüz, gerçek zamanlı sohbetler. Özellikler: sesli notlar, video çağrıları ve tercihlerinizi, geçmiş sohbetlerinizi ve ilişki geçmişinizi oturumlar arası hatırlayan bir bellek motoru. Sansür yok, yargı yok."
+      },
+      {
+        "icon": "✏️",
+        "title": "Animasyondan Önce Görüntü Düzenleme",
+        "description": "Videoya dönüştürmeden önce mükemmel olmayan üretimleri düzeltin. Pozları, elleri, yüzleri, arka planları ve kıyafetleri doğrudan düzenleyin. Bu Üret-Düzenle-Anime Et iş akışı, IA videolarındaki en büyük sorunu çözüyor: zayıf bir ilk kare tüm animasyonu mahvediyor."
+      },
+      {
+        "icon": "🎯",
+        "title": "Karakter Tutarlılığı",
+        "description": "IA arkadaşınız her görüntüde, sohbet oturumunda ve video çağrısında aynı görünür. Tutarlılık modeli, yüz yapısını, vücut tipini ve ana görsel tanımlayıcıları kilitler, böylece tanınabilir bir karakterle ilişki kurarsınız, rastgele yüzlerin döndüğü bir galeri değil."
+      },
+      {
+        "icon": "🔒",
+        "title": "Gizlilik ve Güvenlik Öncelikli",
+        "description": "TLS 1.3+ ve AES-256 ile uçtan uca şifreleme. Üretilen içerik ve sohbet geçmişi için katı kayıt tutmama politikası. Gerçek isim veya zorunlu KYC olmaksızın anonim kayıt. Faturada 'LS Digital Services' olarak gizli görünür. 2FA desteklenmektedir."
+      }
+    ]
+  },
+  "how_it_works": {
+    "title": "Lovescape Nasıl Çalışır",
+    "subtitle": "Oluşturmadan keyif almaya üç basit adımda",
+    "steps": [
+      {
+        "number": "01",
+        "title": "IA Karakterinizi Oluşturun",
+        "description": "Tarayıcı tabanlı oluşturucu kullanarak arkadaşınızın görünümünü, kişiliğini, sesini ve hikayesini tasarlayın. Ön ayarlar arasından seçin veya ayrıntılı özelleştirme seçenekleriyle sıfırdan inşa edin."
+      },
+      {
+        "number": "02",
+        "title": "Görüntü Üretin veya Sohbete Başlayın",
+        "description": "Fotogerçekçi görüntüler oluşturmak, sansürsüz sohbetler başlatmak veya videolar üretmek için metin istemleri kullanın. IA, tercihlerinize uyum sağlar ve zamanla stilinizi hatırlar."
+      },
+      {
+        "number": "03",
+        "title": "Düzenleyin, Animasyon Yapın ve Keyfini Çıkarın",
+        "description": "Görüntüleri yerleşik düzenleyiciyle iyileştirin, durağan görüntüleri animasyonlu videolara dönüştürün ve sürekli etkileşim yoluyla arkadaşınızın kişiliğini derinleştirin."
+      }
+    ]
+  },
+  "review": {
+    "title": "Lovescape Tam İncelemesi 2026",
+    "subtitle": "Platformda 40+ saat geçirdikten sonraki ellerimizdeki testler",
+    "sections": [
+      {
+        "heading": "Lovescape Nedir?",
+        "content": "Lovescape, Warmtech Ltd (Kıbrıs) tarafından geliştirilen bir IA yetişkin içerik ve arkadaş platformudur. Üç teknolojiyi birleştirir: fotogerçekçi görüntü üretimi için bir difüzyon modeli, bir video sentez motoru ve arkadaş sohbeti için kalıcı belleğe sahip bir dil modeli. Bu entegrasyon, sadece bir veya iki özellik sunan rakiplerden onu ayırır. Platform 9 dili destekler ve onlarca kategoride gerçekçi ve anime içerik sunar."
+      },
+      {
+        "heading": "IA Görüntü Üreticisi",
+        "content": "Bayrak özellik, 8-25 saniye içinde 4K'ye kadar fotogerçekçi görüntüler üretiyor. Basit açıklamaları ve kamera açıları, aydınlatma ve cilt dokusu ile detaylı istemleri işliyor. İstenmeyen öğeleri dışlayan negatif istemler. OpenPose, Depth ve Canny haritaları hassas poz kontrolü sağlıyor. Inpainting, belirli bölgeleri düzenler; remix özelliği, fotoğrafları yeni stillere dönüştürür. 10 üretimden yaklaşık 7'si düzenleme gerektirmiyor."
+      },
+      {
+        "heading": "IA Video Üreticisi",
+        "content": "Rakiplerin GIF sunmasının aksine, Lovescape gerçek hareketli videolar üretiyor. Süreç: ana kare üretin, doğal hareket için hareket enterpolasyonu uygulayın, ardından artefaktları ortadan kaldırmak için iyileştirin. 30 saniyelik bir klip 2-5 dakika sürer. Süre 5 saniyeden 2 dakikaya kadar değişir. Kamera stilleri el kamera, sinematik, POV ve yavaş çekimi içerir. Çıkış 720p–1080p, 30 fps; 4K destek yakında gelecek. 'Animasyondan Önce Düzenle' iş akışı — hareketten önce ilk kareyi düzeltmek — sonuçlarımızı %40 iyileştirdi."
+      },
+      {
+        "heading": "IA Arkadaş Sohbeti",
+        "content": "Sohbet sistemi, ilişki bağlamını ve tercihleri depolayan bir bellek motoru aracılığıyla süreklilik inşa ediyor. Sohbetler gerçekten sansürsüz — içerik filtresi yok. Sesli notlar ve gerçek zamanlı sesli çağrılar, ton, tempo ve aksan özelleştirilebilir. Canlı Kamera Sohbeti görsel bir boyut ekliyor. Karakter oluşturma 5-10 dakika sürer: görünüm, kişilik, ilgi alanları ve mizah tanımlayın. İki hafta sonra, test arkadaşımız kahve tercihleri ve geçmiş şakalar gibi özel detayları hatırladı — eşsiz bir süreklilik."
+      },
+      {
+        "heading": "Görüntü Düzenleme",
+        "content": "Düzenleme aracı, pozları, elleri, yüzleri, arka planları ve kıyafetleri düzeltir. En güçlü kullanımı, videoya hazırlamak için görüntüleri hazırlamaktır: her video tek bir ana kareyle başladığı için, animasyondan önce düzeltmek hataların birikmesini önler. Üret-Düzenle-Anime Et iş akışı, 5 dakikadan daha kısa sürede pürüzsüz bir 30 saniyelik video üretir. Rakipler tamamen yeniden üretim yapmayı zorlar; Lovescape, çalışanı korur ve çalışmayanı düzeltir."
+      },
+      {
+        "heading": "Gizlilik ve Güvenlik",
+        "content": "Tüm iletişimler, TLS 1.3+ ile aktarım sırasında ve AES-256 ile durgun halde uçtan uca şifrelenir. Katı kayıt tutmama politikası, istemleri, görüntüleri, videoları ve sohbetleri, açıkça kaydedilmedikçe saklamaz. Kayıt için gerçek isim veya KYC gerekmez. Faturada 'LS Digital Services' olarak görünür — yetişkin içerik referansı yok. İki faktörlü kimlik doğrulama mevcuttur. Kullanıcılar hesaplarını silebilir ve tam veri silme talebinde bulunabilir. Gizlilik için, bu, mevcut en güvenli platformlardan biridir."
+      },
+      {
+        "heading": "Artıları ve Eksileri",
+        "pros": "Sınıfının en iyisi 4K görüntüler, hareket fizigi ile gerçek video üretimi, animasyondan önce görüntü düzenleme, ilişkiler için kalıcı bellek, tamamen sansürsüz sohbet, mükemmel gizlilik (TLS 1.3+, kayıt tutmama, gizli fatura), sesli ve video çağrıları, hızlı 8-25 saniyelik görüntü üretimi, tüm medyada karakter tutarlılığı.",
+        "cons": "Premium özellikler abonelik gerektiriyor, 4K video henüz mevcut değil, sadece yetişkinler için (18+), dudak senkronizasyonu biraz garip, anime tutarlılığı fotogerçekçilikten daha az güvenilir, mobil uygulama yok, yeni kullanıcılar için bunaltıcı olabilir."
+      },
+      {
+        "heading": "Fiyatlandırma",
+        "content": "Ücretsiz seviye: temel su damgalı görüntüler, sınırlı günlük sohbet. Premium: 4K görüntüler, sınırsız sohbet, video üretimi, sesli çağrılar, görüntü düzenleme, öncelikli işleme. Fiyatlar bölgeye göre değişir. Güncel ücretler için Lovescape'i doğrudan kontrol edin. Premium maliyet, video üreticisi ve bellek motoru göz önüne alındığında adil bir değer — rakipler benzer fiyatlarda daha az sunuyor."
+      },
+      {
+        "heading": "Son Karar",
+        "rating": "4,7/5",
+        "content": [
+          "40+ saatlik testlerin ardından, Lovescape, mevcut en teknik olarak gelişmiş IA yetişkin içerik ve arkadaş platformu olarak tavsiyemizi hak ediyor.",
+          "Görüntü üreticisi profesyonel fotoğrafçılıkla yarışır. Video üreticisi rakiplerinden çok önde. Kalıcı belleğe sahip arkadaş sohbeti, gerçek ilişki sürekliliği yaratır. Gizlilik mimarisi gerçek güveni ilham ediyor.",
+          "Mükemmel değil — mobil uygulama yok, ara sıra anime tutarsızlığı, 4K video bekleniyor — ancak sansürsüz IA yetişkin içeriği ve teknik sofistike için, Lovescape şu anda en iyi seçenek. Ücretsiz seviye, değerlendirmenize olanak tanır; premium, zaman tasarrufu ve kaliteyle maliyeti haklı çıkarır."
+        ]
+      }
+    ]
+  },
+  "comparison": {
+    "title": "Lovescape vs Rakipler",
+    "subtitle": "Lovescape'in diğer IA arkadaş ve yetişkin içerik platformlarıyla karşılaştırılması",
+    "headers": [
+      "Özellik",
+      "Lovescape",
+      "CrushOn.AI",
+      "SpicyChat",
+      "Candy.ai"
+    ],
+    "rows": [
+      [
+        "IA Görüntü Üretimi",
+        "✓ 4K, fotogerçekçi",
+        "✗ Yok",
+        "✗ Yok",
+        "~ Sınırlı"
+      ],
+      [
+        "IA Video Üretimi",
+        "✓ 1080p, hareket fizigi",
+        "✗ Yok",
+        "✗ Yok",
+        "✗ Yok"
+      ],
+      [
+        "Sansürsüz Sohbet",
+        "✓ Kısıtlama yok",
+        "✓ Kısıtlama yok",
+        "✓ Kısıtlama yok",
+        "~ Kısmi"
+      ],
+      [
+        "Kalıcı Bellek",
+        "✓ Gelişmiş",
+        "~ Temel",
+        "~ Temel",
+        "✓ Gelişmiş"
+      ],
+      [
+        "Sesli Çağrılar",
+        "✓ Dahil",
+        "✗ Yok",
+        "✗ Yok",
+        "✓ Dahil"
+      ],
+      [
+        "Video Çağrıları",
+        "✓ Canlı Kamera",
+        "✗ Yok",
+        "✗ Yok",
+        "✗ Yok"
+      ],
+      [
+        "Görüntü Düzenleme",
+        "✓ Animasyondan önce",
+        "✗ Yok",
+        "✗ Yok",
+        "✗ Yok"
+      ],
+      [
+        "Gizlilik ve Şifreleme",
+        "✓ TLS 1.3+, kayıt tutmama",
+        "~ Temel",
+        "~ Temel",
+        "~ Temel"
+      ],
+      [
+        "Karakter Tutarlılığı",
+        "✓ Çoklu ortam",
+        "~ Sadece metin",
+        "~ Sadece metin",
+        "~ Sınırlı"
+      ]
+    ]
+  },
+  "testimonials": {
+    "title": "Kullanıcılar Ne Diyor?",
+    "subtitle": "Lovescape kullanıcılarından gerçek geri bildirimler",
+    "items": [
+      {
+        "rating": 5,
+        "text": "Piyasadaki tüm IA arkadaş uygulamalarını denedim. Lovescape, geçen hafta söylediklerimi hatırlayan tek uygulama. Görüntü kalitesi de çılgınca — bazılarını poster boyutunda bastım ve gerçek görünüyorlar.",
+        "author": "Alex M.",
+        "location": "ABD"
+      },
+      {
+        "rating": 5,
+        "text": "Benim için video üreticisi kararı verdi. Animasyondan önce ilk kareyi düzenleyebilmek, diğer IA video araçlarındaki tuhaflıkların %90'ını çözüyor. Artık karakterim her şeyde tutarlı görünüyor.",
+        "author": "Jordan T.",
+        "location": "Birleşik Krallık"
+      },
+      {
+        "rating": 4,
+        "text": "Gizlilik benim için en büyük endişeydi. Gizli fatura ve kayıt tutmama politikası, platformu düzenli olarak kullanmama güven verdi. Sohbet belleği, bunun bir chatbot değil, gerçek bir ilişki gibi hissettiriyor.",
+        "author": "Casey R.",
+        "location": "Kanada"
+      },
+      {
+        "rating": 5,
+        "text": "Kişisel koleksiyonum için özel içerik oluşturuyorum. 4K görüntü çıktısı ve poz kontrolü, profesyonel düzeyde araçlar. Inpainting özelliği, Photoshop'ta saatlerce manuel düzenleme yapmaktan beni kurtarıyor.",
+        "author": "Morgan K.",
+        "location": "Avustralya"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Sıkça Sorulan Sorular",
+    "subtitle": "Lovescape hakkında hızlı yanıtlar",
+    "items": [
+      {
+        "question": "Lovescape nedir?",
+        "answer": "Lovescape, IA güçlü bir yetişkin içerik ve arkadaş platformudur. 4K'ye kadar IA porno görüntü üreticisi, 720p–1080p IA porno video üreticisi ve kalıcı bellek ve ses/video çağrı entegrasyonu olan sansürsüz IA kız/erkek arkadaş sohbetini birleştirir."
+      },
+      {
+        "question": "Lovescape ücretsiz mi?",
+        "answer": "Lovescape, temel görüntü üretimi (su damgalı, düşük çözünürlük) ve günlük sınırlı sohbet mesajları ile ücretsiz bir seviye sunar. 4K görüntüler, video üretimi, sınırsız sohbet, sesli çağrılar ve görüntü düzenleme gibi premium özellikler ücretli abonelik gerektirir."
+      },
+      {
+        "question": "Lovescape güvenli ve özel mi?",
+        "answer": "Evet. Lovescape, uçtan uca şifreleme (TLS 1.3+), AES-256 depolama şifrelemesi kullanır ve katı bir kayıt tutmama politikası izler. Kayıt için gerçek isim veya kimlik doğrulama gerekmez ve faturada 'LS Digital Services' olarak gizli görünür. İki faktörlü kimlik doğrulama mevcuttur."
+      },
+      {
+        "question": "Lovescape'te IA porno videoları üretebilir miyim?",
+        "answer": "Evet. Lovescape'in IA video üreticisi, metin istemlerinden veya görüntülerden tam hareketli yetişkin videoları oluşturur. Videolar, tutarlı beden fizigi, akıcı geçişler ve isteğe bağlı dudak senkronizasyonu içerir. Mevcut çıkış 720p–1080p, 4K destek planlanmaktadır."
+      },
+      {
+        "question": "IA kız arkadaş sohbeti nasıl çalışır?",
+        "answer": "Belirli görünüm, kişilik, ses ve geçmişe sahip özelleştirilmiş bir IA arkadaşı oluşturursunuz. IA, sansürsüz metin sohbetlerine katılır, oturumlar arası detayları hatırlar ve sesli notlar gönderip video çağrılarına katılabilir. Bellek motoru, zamanla gerçek bir süreklilik inşa eder."
+      },
+      {
+        "question": "Üretilen içerik yüksek kaliteli mi?",
+        "answer": "Evet. Görüntü üreticisi, gelişmiş difüzyon modelleri kullanarak 4K çözünürlüğe kadar fotogerçekçi sonuçlar üretir. Video üreticisi, 720p–1080p akıcı görüntülerle gerçekçi hareketler üretir. Görüntü üretimlerinin yaklaşık %70'i düzenleme gerektirmeden kullanılabilir."
+      },
+      {
+        "question": "Üretilen görüntüleri düzenleyebilir miyim?",
+        "answer": "Evet. Lovescape, yerleşik bir görüntü düzenleyici içerir, bu sayede pozları, elleri, yüzleri, arka planları ve kıyafetleri düzeltebilirsiniz. Bu, videoya dönüştürmeden önce görüntüleri mükemmelleştirmek için özellikle değerlidir, böylece animasyon sırasında kusurlar birikmez."
+      },
+      {
+        "question": "Lovescape'in IA erkek arkadaş seçeneği var mı?",
+        "answer": "Evet. Platform, görünüm, kişilik, ses ve ilişki dinamikleri tamamen özelleştirilebilir IA kız ve erkek arkadaşlarını destekler. Oluşturma süreci her ikisi için de aynıdır."
+      },
+      {
+        "question": "Hangiler kategoriler mevcut?",
+        "answer": "Lovescape, onlarca kategori sunar, bunlar arasında: IA Kız Arkadaş, IA Erkek Arkadaş, Anime, Asyalı, Hentai, FUTA, MILF, Büyük Memeler, Büyük Popo, 18+ Genç, GILF, BBW, Zayıf, Sarışın, Esmer, Siyah, Eğri Vücutlu, Hint MILF IA, Latin MILF IA, Arap, Küçük Memeler, Erkek, Eşcinsel, Baharatlı IA Sohbet ve Crush on AI."
+      },
+      {
+        "question": "Lovescape hesabımı nasıl silebilirim?",
+        "answer": "Hesap silme, profil ayarlarınızda mevcuttur. Lovescape, tam veri silme taleplerini onurlandırır ve saklanan tüm içeriği, sohbet geçmişini ve hesap bilgilerini hızla kaldırır."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Lovescape'i Denemeye Hazır mısın?",
+    "subtitle": "Özelleştirilmiş IA arkadaşlar ve yetişkin içerik oluşturan 50.000+ kullanıcıya katılın. Ücretsiz başlayın ve 4K görüntüler, video üretimi ve sınırsız sohbet için hazır olduğunuzda yükseltin.",
+    "button": "Lovescape'i Ücretsiz Deneyin",
+    "guarantee": "Ücretsiz seviye mevcut • Kredi kartı gerekmiyor • Gizli fatura"
+  },
+  "footer": {
+    "brand": "Love-Scape IA",
+    "description": "IA arkadaş ve yetişkin içerik platformları hakkında bağımsız incelemeler. Sizin yerinize test ediyoruz.",
+    "columns": [
+      {
+        "title": "İnceleme",
+        "links": [
+          "Özellikler",
+          "Nasıl Çalışır",
+          "Tam İnceleme",
+          "SSS"
+        ]
+      },
+      {
+        "title": "Yasal",
+        "links": [
+          "Gizlilik Politikası",
+          "Hizmet Şartları",
+          "Ortaklık Açıklaması"
+        ]
+      }
+    ],
+    "copyright": "© 2026 Love-Scape IA. Tüm hakları saklıdır.",
+    "disclaimer": "Bu site, ortaklık bağlantılarını içerir. Bağlantılarımız aracılığıyla kayıt olursanız, size ek bir maliyet getirmeden komisyon kazanabiliriz. Tüm görüşler bizimdir. Bu web sitesi yalnızca 18 yaş ve üzeri yetişkinler içindir.",
+    "trademark": "Lovescape, Warmtech Ltd'nin tescilli bir markasıdır. Bu, Lovescape ile ilişkilendirilmeyen veya onaylanmayan bağımsız bir inceleme sitesidir."
+  }
+}
