@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="it">
+<html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -10,12 +10,12 @@
   <meta property="og:description" data-i18n="meta.og_description">
   <meta property="og:image" content="https://love-scape-ai.net/images/og-image.webp">
   <meta property="og:type" content="article">
-  <meta property="og:url" content="https://love-scape-ai.net/it-IT/">
+  <meta property="og:url" content="https://love-scape-ai.net/">
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" data-i18n="meta.og_title">
   <meta name="twitter:description" data-i18n="meta.og_description">
   <meta name="twitter:image" content="https://love-scape-ai.net/images/og-image.webp">
-  <link rel="canonical" href="https://love-scape-ai.net/it-IT/">
+  <link rel="canonical" href="https://love-scape-ai.net/">
   <link rel="sitemap" type="application/xml" title="Sitemap" href="/sitemap.xml">
   <link rel="icon" type="image/svg+xml" href="/favicon.svg">
   <link rel="dns-prefetch" href="https://go.xlvirdr.com">
@@ -126,6 +126,17 @@
     .fcol a{display:block;color:#8a8a98;font-size:.9rem;margin-bottom:10px}
     .fcol a:hover{color:#07f0ff}
     .fb2{max-width:1200px;margin:40px auto 0;padding-top:24px;border-top:1px solid #252530;text-align:center;color:#8a8a98;font-size:.8rem;line-height:1.6}
+    .ld{position:relative;display:inline-block}
+    .ld-btn{background:#1a1a25;border:1px solid #252530;color:#e8e8ec;padding:10px 20px;border-radius:8px;cursor:pointer;font-size:.9rem;display:flex;align-items:center;gap:8px;transition:all .2s}
+    .ld-btn:hover{border-color:#07f0ff;color:#07f0ff}
+    .ld-btn::after{content:'▲';font-size:.7rem;transition:transform .2s}
+    .ld-btn.o::after{transform:rotate(180deg)}
+    .ld-menu{position:absolute;bottom:100%;left:50%;transform:translateX(-50%);margin-bottom:8px;background:#12121a;border:1px solid #252530;border-radius:12px;padding:8px 0;min-width:160px;opacity:0;visibility:hidden;transition:all .2s;z-index:10}
+    .ld-menu.o{opacity:1;visibility:visible}
+    .ld-menu a{display:block;padding:8px 16px;color:#8a8a98;font-size:.85rem;text-decoration:none;transition:all .2s}
+    .ld-menu a:hover{background:rgba(7,240,255,.1);color:#07f0ff}
+    .ld-menu a.on{color:#07f0ff;font-weight:600;background:rgba(7,240,255,.05)}
+    .ld-menu a.on::before{content:'✓ ';color:#07ffb5}
     @media(max-width:768px){
       .hero h1{font-size:2.2rem}.st{font-size:1.8rem}.nl{display:none}
       .fi2{grid-template-columns:1fr;text-align:center}
@@ -249,6 +260,24 @@
       <div class="fcol"><h4 data-i18n="footer.columns.2.title"></h4><div id="footer-col-2"></div></div>
     </div>
     <div class="fb2">
+      <div class="ld">
+        <button class="ld-btn" id="ld-btn" onclick="toggleLang()">🌐 Language</button>
+        <div class="ld-menu" id="ld-menu">
+          <a href="/" >English</a>
+          <a href="/fr-FR/">Français</a>
+          <a href="/de-DE/">Deutsch</a>
+          <a href="/es-ES/">Español</a>
+          <a href="/it-IT/" class="on">Italiano</a>
+          <a href="/nl-NL/">Nederlands</a>
+          <a href="/pl-PL/">Polski</a>
+          <a href="/pt-PT/">Português</a>
+          <a href="/ru-RU/">Русский</a>
+          <a href="/tr-TR/">Türkçe</a>
+          <a href="/ja-JP/">日本語</a>
+          <a href="/ko-KR/">한국어</a>
+          <a href="/id-ID/">Bahasa Indonesia</a>
+        </div>
+      </div>
       <p data-i18n="footer.copyright"></p>
       <p data-i18n="footer.disclaimer"></p>
       <p data-i18n="footer.trademark"></p>
@@ -335,6 +364,8 @@
       });
 
     function t(i){var a=document.getElementById('fa'+i);var b=document.getElementById('ft'+i);a.classList.toggle('o');b.classList.toggle('o');}
+    function toggleLang(){var m=document.getElementById('ld-menu');var b=document.getElementById('ld-btn');m.classList.toggle('o');b.classList.toggle('o');}
+    document.addEventListener('click',function(e){var m=document.getElementById('ld-menu');var b=document.getElementById('ld-btn');if(!m.contains(e.target)&&!b.contains(e.target)){m.classList.remove('o');b.classList.remove('o');}});
   </script>
 </body>
 </html>
