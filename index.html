@@ -305,8 +305,16 @@
 
         c.footer.columns.forEach((col,i) => {
           const el = document.getElementById('footer-col-' + i);
-          col.links.forEach(l => {
-            el.innerHTML += '<a href="#">'+l+'</a>';
+          col.links.forEach((l, j) => {
+            let href = '#';
+            if (i === 0) {
+              const anchors = ['#features', '#how-it-works', '#review', '#faq'];
+              href = anchors[j] || '#';
+            } else if (i === 1) {
+              const pages = ['/privacy.html', '/terms.html', '/affiliate-disclosure.html'];
+              href = pages[j] || '#';
+            }
+            el.innerHTML += '<a href="'+href+'"' + (href.startsWith('/') ? '' : '') + '>'+l+'</a>';
           });
         });
       });
