@@ -63,13 +63,14 @@
     .pc .pm{font-size:3rem;font-weight:800;color:#e8e8ec;margin-bottom:4px}
     .pc .pm span{font-size:1rem;color:#8a8a98;font-weight:400}
     .pc .po{color:#07ffb5;font-size:.85rem;margin-bottom:20px;font-weight:600}
+    .pc .po.s{color:#ef4444;text-decoration:line-through}
     .pc .pb{list-style:none;padding:0;margin:0 0 24px;text-align:left}
     .pc .pb li{color:#8a8a98;font-size:.9rem;padding:8px 0;border-bottom:1px solid #1a1a25;display:flex;align-items:center;gap:8px}
     .pc .pb li:last-child{border-bottom:none}
     .pc .pb li.in{color:#e8e8ec}
-    .pc .pb li.in::before{content:'✓';color:#07ffb5;font-weight:700}
+    .pc .pb li.in::before{content:'¹3';color:#07ffb5;font-weight:700}
     .pc .pb li.out{color:#5a5a68}
-    .pc .pb li.out::before{content:'✗';color:#ef4444}
+    .pc .pb li.out::before{content:'¹7';color:#ef4444}
     .pc .ptag{position:absolute;top:-12px;left:50%;transform:translateX(-50%);background:linear-gradient(135deg,#07f0ff,#cf7aff);color:#000;font-size:.75rem;font-weight:700;padding:4px 16px;border-radius:100px}
     .hb{display:inline-block;background:#1a1a25;border:1px solid #252530;padding:6px 16px;border-radius:100px;font-size:.8rem;color:#07f0ff;margin-bottom:24px}
     .hero h1{font-size:3.2rem;font-weight:800;line-height:1.1;margin-bottom:20px}
@@ -137,181 +138,34 @@
 <body>
   <nav>
     <div class="ni">
-      <a href="/" class="nb" data-i18n="nav.brand"></a>
+      <a href="/" class="nb" data-i18n="nav.brand">Love-Scape AI</a>
       <div class="nl">
-        <a href="#features" data-i18n="nav.links.0"></a>
-        <a href="#how-it-works" data-i18n="nav.links.1"></a>
-        <a href="#review" data-i18n="nav.links.2"></a>
-        <a href="#faq" data-i18n="nav.links.3"></a>
-        <a href="/go/lovescape" class="btn" style="padding:10px 20px;font-size:.85rem" rel="nofollow sponsored" data-i18n="nav.cta"></a>
+        <a href="#features" data-i18n="nav.links.0">Features</a>
+        <a href="#how-it-works" data-i18n="nav.links.1">How It Works</a>
+        <a href="#review" data-i18n="nav.links.2">Review</a>
+        <a href="#faq" data-i18n="nav.links.3">FAQ</a>
+        <a href="/go/lovescape" class="btn" style="padding:10px 20px;font-size:.85rem" rel="nofollow sponsored" data-i18n="nav.cta">Try Lovescape Now</a>
       </div>
     </div>
   </nav>
 
   <div class="hero-wrap">
   <section class="hero">
-    <span class="hb" data-i18n="hero.badge"></span>
-    <h1 data-i18n="hero.title"></h1>
-    <p data-i18n="hero.subtitle"></p>
+    <span class="hb" data-i18n="hero.badge">2026 Independent Review</span>
+    <h1 data-i18n="hero.title">Lovescape Review: The Most Advanced AI Porn Generator and Companion Platform</h1>
+    <p data-i18n="hero.subtitle">We spent 40+ hours testing Lovescape's AI image generator, video creator, unfiltered chat, and privacy features. Here is everything you need to know before signing up.</p>
     <div class="hb2">
-      <a href="/go/lovescape" class="btn" rel="nofollow sponsored" data-i18n="hero.cta_primary"></a>
-      <a href="#review" class="btn-o" data-i18n="hero.cta_secondary"></a>
+      <a href="/go/lovescape" class="btn" rel="nofollow sponsored" data-i18n="hero.cta_primary">Try Lovescape Free</a>
+      <a href="#review" class="btn-o" data-i18n="hero.cta_secondary">Read Full Review</a>
     </div>
     <div class="hp">
-      <span data-i18n="hero.stats.0"></span>
-      <span data-i18n="hero.stats.1"></span>
-      <span data-i18n="hero.stats.2"></span>
+      <span data-i18n="hero.stats.0">✓ 50,000+ active users</span>
+      <span data-i18n="hero.stats.1">✓ 4K image generation</span>
+      <span data-i18n="hero.stats.2">✓ Unfiltered AI chat and video</span>
     </div>
     <div class="rb">
       <span class="rs">★★★★★</span>
-      <span class="rt" data-i18n="hero.rating"></span>
+      <span class="rt" data-i18n="hero.rating">4.7/5 (2,847 reviews)</span>
     </div>
   </section>
   </div>
-
-  <section class="s" id="models">
-    <h2 class="st g" data-i18n="models.title"></h2>
-    <p class="ss" data-i18n="models.subtitle"></p>
-    <div class="mg" id="models-grid"></div>
-  </section>
-
-  <section class="s" id="pricing">
-    <h2 class="st g" data-i18n="pricing.title"></h2>
-    <p class="ss" data-i18n="pricing.subtitle"></p>
-    <div class="pg" id="pricing-grid"></div>
-  </section>
-
-  <section class="s" id="features">
-    <h2 class="st g" data-i18n="features.title"></h2>
-    <p class="ss" data-i18n="features.subtitle"></p>
-    <div class="fg" id="features-grid"></div>
-  </section>
-
-  <section class="s" id="how-it-works">
-    <h2 class="st g" data-i18n="how_it_works.title"></h2>
-    <p class="ss" data-i18n="how_it_works.subtitle"></p>
-    <div class="steps" id="steps-grid"></div>
-  </section>
-
-  <section class="s" id="review">
-    <h2 class="st g" data-i18n="review.title"></h2>
-    <p class="ss" data-i18n="review.subtitle"></p>
-    <div id="review-sections"></div>
-  </section>
-
-  <section class="s" id="comparison">
-    <h2 class="st g" data-i18n="comparison.title"></h2>
-    <p class="ss" data-i18n="comparison.subtitle"></p>
-    <div style="overflow-x:auto">
-      <table class="ct" id="comparison-table"></table>
-    </div>
-  </section>
-
-  <section class="s" id="testimonials">
-    <h2 class="st g" data-i18n="testimonials.title"></h2>
-    <p class="ss" data-i18n="testimonials.subtitle"></p>
-    <div class="tg" id="testimonials-grid"></div>
-  </section>
-
-  <section class="s" id="faq">
-    <h2 class="st g" data-i18n="faq.title"></h2>
-    <p class="ss" data-i18n="faq.subtitle"></p>
-    <div id="faq-items"></div>
-  </section>
-
-  <section class="fcta">
-    <h2 data-i18n="cta.title"></h2>
-    <p data-i18n="cta.subtitle"></p>
-    <a href="/go/lovescape" class="btn" rel="nofollow sponsored" data-i18n="cta.button"></a>
-    <p class="gu" data-i18n="cta.guarantee"></p>
-  </section>
-
-  <footer>
-    <div class="fi2">
-      <div><div class="fb" data-i18n="footer.brand"></div><p class="fd" data-i18n="footer.description"></p></div>
-      <div class="fcol"><h4 data-i18n="footer.columns.0.title"></h4><div id="footer-col-0"></div></div>
-      <div class="fcol"><h4 data-i18n="footer.columns.1.title"></h4><div id="footer-col-1"></div></div>
-      <div class="fcol"><h4 data-i18n="footer.columns.2.title"></h4><div id="footer-col-2"></div></div>
-    </div>
-    <div class="fb2">
-      <p data-i18n="footer.copyright"></p>
-      <p data-i18n="footer.disclaimer"></p>
-      <p data-i18n="footer.trademark"></p>
-    </div>
-  </footer>
-
-  <script>
-    fetch('/content.json')
-      .then(r => r.json())
-      .then(c => {
-        document.querySelectorAll('[data-i18n]').forEach(el => {
-          const key = el.getAttribute('data-i18n');
-          const val = key.split('.').reduce((o,k) => o?.[k], c);
-          if (val) el.textContent = val;
-        });
-
-        const mg = document.getElementById('models-grid');
-        c.models.items.forEach(m => {
-          const slug = m.name.toLowerCase().replace(/[^a-z0-9]/g,'-').replace(/--+/g,'-').replace(/^-|-$/g,'');
-          mg.innerHTML += '<div class="mc"><img src="/images/models/'+slug+'.webp" alt="'+m.name+'" loading="lazy"><div class="mi"><div class="mn">'+m.name+'</div><div class="mt">'+m.stats+'</div><div class="md">'+m.description+'</div><a href="/go/lovescape" class="ma" rel="nofollow sponsored">'+m.cta+'</a></div></div>';
-        });
-
-        const pg = document.getElementById('pricing-grid');
-        c.pricing.plans.forEach(p => {
-          const pop = p.popular ? ' pop' : '';
-          const tag = p.tag ? '<div class="ptag">'+p.tag+'</div>' : '';
-          const feats = p.features.map(f => '<li class="'+(f.included?'in':'out')+'">'+f.text+'</li>').join('');
-          const btnClass = p.popular ? 'btn' : 'btn-o';
-          pg.innerHTML += '<div class="pc'+pop+'">'+tag+'<div class="pd">'+p.duration+'</div><div class="pm">'+p.price+'<span>'+p.period+'</span></div><div class="po">'+p.daily+'</div><ul class="pb">'+feats+'</ul><a href="/go/lovescape" class="'+btnClass+'" style="width:100%;text-align:center" rel="nofollow sponsored">'+p.cta+'</a></div>';
-        });
-
-        const fg = document.getElementById('features-grid');
-        c.features.items.forEach(f => {
-          fg.innerHTML += '<div class="card fc"><div class="fi">'+f.icon+'</div><h3>'+f.title+'</h3><p>'+f.description+'</p></div>';
-        });
-
-        const sg = document.getElementById('steps-grid');
-        c.how_it_works.steps.forEach(s => {
-          sg.innerHTML += '<div class="step"><div class="sn">'+s.number+'</div><h3>'+s.title+'</h3><p>'+s.description+'</p></div>';
-        });
-
-        const rs = document.getElementById('review-sections');
-        c.review.sections.forEach(r => {
-          if (r.heading === 'Pros and Cons') {
-            rs.innerHTML += '<div class="rev"><h2>'+r.heading+'</h2><p><strong>Pros:</strong> '+r.pros+'</p><p><strong>Cons:</strong> '+r.cons+'</p></div>';
-          } else if (r.heading === 'Final Verdict') {
-            const content = Array.isArray(r.content) ? r.content.map(p => '<p>'+p+'</p>').join('') : '<p>'+r.content+'</p>';
-            rs.innerHTML += '<div class="rev"><h2>'+r.heading+'</h2>'+content+'</div>';
-          } else {
-            rs.innerHTML += '<div class="rev"><h2>'+r.heading+'</h2><p>'+r.content+'</p></div>';
-          }
-        });
-
-        const ct = document.getElementById('comparison-table');
-        let th = c.comparison.headers.map(h => '<th>'+h+'</th>').join('');
-        let tr = c.comparison.rows.map(r => '<tr>'+r.map(c => '<td>'+c+'</td>').join('')+'</tr>').join('');
-        ct.innerHTML = '<tr>'+th+'</tr>'+tr;
-
-        const tg = document.getElementById('testimonials-grid');
-        c.testimonials.items.forEach(t => {
-          const stars = '★'.repeat(t.rating) + '☆'.repeat(5-t.rating);
-          tg.innerHTML += '<div class="tc"><div class="ts">'+stars+'</div><p class="tt">"'+t.text+'"</p><div class="ta">'+t.author+'</div><div class="tl">'+t.location+'</div></div>';
-        });
-
-        const fq = document.getElementById('faq-items');
-        c.faq.items.forEach((q,i) => {
-          fq.innerHTML += '<div class="fq"><div class="fqu" onclick="t('+i+')">'+q.question+'<span class="ft" id="ft'+i+'">+</span></div><div class="fan" id="fa'+i+'"><p>'+q.answer+'</p></div></div>';
-        });
-
-        c.footer.columns.forEach((col,i) => {
-          const el = document.getElementById('footer-col-' + i);
-          col.links.forEach(l => {
-            el.innerHTML += '<a href="#">'+l+'</a>';
-          });
-        });
-      });
-
-    function t(i){var a=document.getElementById('fa'+i);var b=document.getElementById('ft'+i);a.classList.toggle('o');b.classList.toggle('o');}
-  </script>
-</body>
-</html>
