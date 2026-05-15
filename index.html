@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="robots" content="index, follow">
+  <meta name="description" content="Placeholder">
+  <meta name="keywords" content="placeholder">
+  <meta property="og:title" content="Placeholder">
+  <meta property="og:description" content="Placeholder">
+  <meta property="og:image" content="https://love-scape-ai.net/images/og-image.webp">
+  <meta property="og:type" content="article">
+  <meta property="og:url" content="https://love-scape-ai.net/">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Placeholder">
+  <meta name="twitter:description" content="Placeholder">
+  <meta name="twitter:image" content="https://love-scape-ai.net/images/og-image.webp">
+  <link rel="canonical" href="https://love-scape-ai.net/">
+  <link rel="sitemap" type="application/xml" title="Sitemap" href="/sitemap.xml">
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg">
+  <link rel="preconnect" href="https://cdn.tailwindcss.com">
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script type="application/ld+json" id="schema-data">{"@context":"https://schema.org","@type":"Review","itemReviewed":{"@type":"SoftwareApplication","name":"Lovescape","applicationCategory":"AICompanion","operatingSystem":"Web"},"reviewRating":{"@type":"Rating","ratingValue":"4.7","bestRating":"5"},"author":{"@type":"Organization","name":"Love-Scape AI Review Team"},"publisher":{"@type":"Organization","name":"Love-Scape AI"},"datePublished":"2026-05-15"}</script>
+  <style>
+    :root{--bg:#0a0a0f;--surface:#12121a;--surface-2:#1a1a25;--accent-cyan:#07f0ff;--accent-teal:#07ffb5;--accent-purple:#cf7aff;--text:#e8e8ec;--text-dim:#8a8a98;--border:#252530}
+    *{box-sizing:border-box}
+    html{scroll-behavior:smooth}
+    body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;background:var(--bg);color:var(--text);line-height:1.6;margin:0}
+    a{color:var(--accent-cyan);text-decoration:none}
+    a:hover{text-decoration:underline}
+    .gradient-text{background:linear-gradient(135deg,var(--accent-cyan),var(--accent-purple));-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text}
+    .gradient-btn{background:linear-gradient(135deg,var(--accent-cyan),var(--accent-teal));color:#000;font-weight:700;padding:14px 32px;border-radius:12px;display:inline-block;border:none;cursor:pointer;transition:transform .2s,box-shadow .2s}
+    .gradient-btn:hover{transform:translateY(-2px);box-shadow:0 8px 32px rgba(7,240,255,.25);text-decoration:none}
+    .outline-btn{border:1px solid var(--border);color:var(--text);padding:14px 32px;border-radius:12px;display:inline-block;transition:all .2s}
+    .outline-btn:hover{border-color:var(--accent-cyan);color:var(--accent-cyan);text-decoration:none}
+    .card{background:var(--surface);border:1px solid var(--border);border-radius:16px;padding:28px;transition:transform .2s,border-color .2s}
+    .card:hover{transform:translateY(-4px);border-color:var(--accent-purple)}
+    .section{padding:80px 20px;max-width:1200px;margin:0 auto}
+    .section-title{font-size:2.5rem;font-weight:800;text-align:center;margin-bottom:12px}
+    .section-subtitle{text-align:center;color:var(--text-dim);font-size:1.1rem;margin-bottom:48px;max-width:700px;margin-left:auto;margin-right:auto}
+    .star{color:#fbbf24}
+    .check{color:var(--accent-teal)}
+    .cross{color:#ef4444}
+    .dash{color:#f59e0b}
+    nav{position:sticky;top:0;z-index:100;background:rgba(10,10,15,.9);backdrop-filter:blur(12px);border-bottom:1px solid var(--border)}
+    .nav-inner{max-width:1200px;margin:0 auto;padding:16px 20px;display:flex;align-items:center;justify-content:space-between}
+    .nav-brand{font-size:1.25rem;font-weight:800;color:var(--text)}
+    .nav-links{display:flex;gap:28px;align-items:center}
+    .nav-links a{color:var(--text-dim);font-size:.9rem;font-weight:500}
+    .nav-links a:hover{color:var(--accent-cyan)}
+    .mobile-menu{display:none}
+    .hero{text-align:center;padding:100px 20px 80px;max-width:900px;margin:0 auto}
+    .hero-badge{display:inline-block;background:var(--surface-2);border:1px solid var(--border);padding:6px 16px;border-radius:100px;font-size:.8rem;color:var(--accent-cyan);margin-bottom:24px}
+    .hero h1{font-size:3.2rem;font-weight:800;line-height:1.1;margin-bottom:20px}
+    .hero p{font-size:1.2rem;color:var(--text-dim);margin-bottom:32px;max-width:700px;margin-left:auto;margin-right:auto}
+    .hero-buttons{display:flex;gap:16px;justify-content:center;flex-wrap:wrap;margin-bottom:32px}
+    .hero-proof{display:flex;gap:24px;justify-content:center;flex-wrap:wrap;color:var(--text-dim);font-size:.85rem}
+    .hero-proof span{display:flex;align-items:center;gap:6px}
+    .rating-box{display:flex;align-items:center;gap:12px;justify-content:center;margin-top:20px}
+    .rating-stars{font-size:1.4rem}
+    .rating-text{color:var(--text-dim);font-size:.9rem}
+    .features-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(340px,1fr));gap:24px}
+    .feature-icon{font-size:2.5rem;margin-bottom:16px}
+    .feature-card h3{font-size:1.2rem;font-weight:700;margin-bottom:10px}
+    .feature-card p{color:var(--text-dim);font-size:.95rem;line-height:1.6}
+    .steps{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:32px;counter-reset:step}
+    .step{text-align:center;padding:32px}
+    .step-num{width:56px;height:56px;border-radius:50%;background:linear-gradient(135deg,var(--accent-cyan),var(--accent-purple));color:#000;font-weight:800;font-size:1.2rem;display:flex;align-items:center;justify-content:center;margin:0 auto 20px}
+    .step h3{font-size:1.2rem;font-weight:700;margin-bottom:10px}
+    .step p{color:var(--text-dim);font-size:.95rem}
+    .review-section{background:var(--surface);border-radius:24px;padding:48px;margin-top:40px}
+    .review-section h2{font-size:1.8rem;font-weight:700;margin-top:0;margin-bottom:16px;color:var(--accent-cyan)}
+    .review-section h3{font-size:1.3rem;font-weight:600;margin-top:28px;margin-bottom:12px}
+    .review-section p{color:var(--text-dim);margin-bottom:14px;line-height:1.7}
+    .review-section ul{margin:0;padding-left:20px;color:var(--text-dim)}
+    .review-section li{margin-bottom:8px;line-height:1.6}
+    .comparison-table{width:100%;border-collapse:collapse;margin-top:24px;font-size:.9rem}
+    .comparison-table th{background:var(--surface-2);padding:14px 16px;text-align:left;font-weight:600;border-bottom:2px solid var(--border)}
+    .comparison-table td{padding:12px 16px;border-bottom:1px solid var(--border);color:var(--text-dim)}
+    .comparison-table tr:hover td{background:rgba(7,240,255,.03)}
+    .comparison-table td:first-child{font-weight:500;color:var(--text)}
+    .testimonials-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:24px}
+    .testimonial-card{background:var(--surface);border:1px solid var(--border);border-radius:16px;padding:28px}
+    .testimonial-stars{margin-bottom:12px}
+    .testimonial-text{color:var(--text-dim);font-size:.95rem;line-height:1.6;margin-bottom:16px;font-style:italic}
+    .testimonial-author{font-weight:600;font-size:.9rem}
+    .testimonial-location{color:var(--text-dim);font-size:.8rem}
+    .faq-item{border-bottom:1px solid var(--border);padding:20px 0}
+    .faq-question{font-size:1.1rem;font-weight:600;cursor:pointer;display:flex;justify-content:space-between;align-items:center}
+    .faq-question:hover{color:var(--accent-cyan)}
+    .faq-answer{max-height:0;overflow:hidden;transition:max-height .3s ease;padding-right:40px}
+    .faq-answer.open{max-height:500px;padding-top:12px}
+    .faq-answer p{color:var(--text-dim);margin:0;line-height:1.7}
+    .faq-toggle{color:var(--accent-cyan);font-size:1.4rem;transition:transform .3s}
+    .faq-toggle.open{transform:rotate(45deg)}
+    .final-cta{text-align:center;padding:100px 20px;background:linear-gradient(180deg,var(--bg) 0%,var(--surface) 100%);border-top:1px solid var(--border)}
+    .final-cta h2{font-size:2.2rem;font-weight:800;margin-bottom:16px}
+    .final-cta p{color:var(--text-dim);font-size:1.1rem;max-width:600px;margin:0 auto 32px}
+    .final-cta .guarantee{color:var(--text-dim);font-size:.85rem;margin-top:20px}
+    footer{background:var(--surface);border-top:1px solid var(--border);padding:60px 20px 30px}
+    .footer-inner{max-width:1200px;margin:0 auto;display:grid;grid-template-columns:2fr 1fr 1fr 1fr;gap:40px}
+    .footer-brand{font-size:1.2rem;font-weight:800;margin-bottom:12px}
+    .footer-desc{color:var(--text-dim);font-size:.9rem;line-height:1.6;margin-bottom:16px}
+    .footer-col h4{font-size:.9rem;font-weight:600;text-transform:uppercase;letter-spacing:.05em;color:var(--text-dim);margin-bottom:16px}
+    .footer-col a{display:block;color:var(--text-dim);font-size:.9rem;margin-bottom:10px}
+    .footer-col a:hover{color:var(--accent-cyan)}
+    .footer-bottom{max-width:1200px;margin:40px auto 0;padding-top:24px;border-top:1px solid var(--border);text-align:center;color:var(--text-dim);font-size:.8rem;line-height:1.6}
+    .footer-bottom a{color:var(--text-dim);text-decoration:underline}
+    @media(max-width:768px){
+      .hero h1{font-size:2.2rem}
+      .section-title{font-size:1.8rem}
+      .nav-links{display:none}
+      .mobile-menu{display:block;background:none;border:none;color:var(--text);font-size:1.5rem;cursor:pointer}
+      .footer-inner{grid-template-columns:1fr;text-align:center}
+      .comparison-table{font-size:.75rem}
+      .comparison-table th,.comparison-table td{padding:8px}
+      .review-section{padding:24px}
+    }
+  </style>
+</head>
+<body>
+  <nav>
+    <div class="nav-inner">
+      <a href="/" class="nav-brand" data-i18n="nav.brand">Love-Scape AI</a>
+      <div class="nav-links" id="nav-links"></div>
+      <button class="mobile-menu" onclick="document.getElementById('nav-links').classList.toggle('mobile-open')">☰</button>
+    </div>
+  </nav>
+
+  <section class="hero">
+    <span class="hero-badge" data-i18n="hero.badge">2026 Independent Review</span>
+    <h1 data-i18n="hero.title">Lovescape Review: The Most Advanced AI Porn Generator &amp; Companion Platform</h1>
+    <p data-i18n="hero.subtitle">We spent 40+ hours testing Lovescape's AI image generator, video creator, unfiltered chat, and privacy features.</p>
+    <div class="hero-buttons">
+      <a href="/go/lovescape" class="gradient-btn" data-i18n="hero.cta_primary">Try Lovescape Free →</a>
+      <a href="#review" class="outline-btn" data-i18n="hero.cta_secondary">Read Full Review</a>
+    </div>
+    <div class="hero-proof" id="hero-proof"></div>
+    <div class="rating-box">
+      <span class="rating-stars" id="rating-stars"></span>
+      <span class="rating-text" id="rating-text"></span>
+    </div>
+  </section>
+
+  <section class="section" id="features">
+    <h2 class="section-title gradient-text" data-i18n="features.title">What Lovescape Offers</h2>
+    <p class="section-subtitle" data-i18n="features.subtitle">A complete AI adult content and companion platform</p>
+    <div class="features-grid" id="features-grid"></div>
+  </section>
+
+  <section class="section" id="how-it-works">
+    <h2 class="section-title gradient-text" data-i18n="how_it_works.title">How Lovescape Works</h2>
+    <p class="section-subtitle" data-i18n="how_it_works.subtitle">From creation to enjoyment in three simple steps</p>
+    <div class="steps" id="steps"></div>
+  </section>
+
+  <section class="section" id="review">
+    <h2 class="section-title gradient-text" data-i18n="review.title">Complete Lovescape Review 2026</h2>
+    <p class="section-subtitle" data-i18n="review.subtitle">Our hands-on testing after 40+ hours on the platform</p>
+    <div id="review-content"></div>
+  </section>
+
+  <section class="section" id="comparison">
+    <h2 class="section-title gradient-text" data-i18n="comparison.title">Lovescape vs Competitors</h2>
+    <p class="section-subtitle" data-i18n="comparison.subtitle">How Lovescape stacks up against other platforms</p>
+    <div style="overflow-x:auto">
+      <table class="comparison-table" id="comparison-table"></table>
+    </div>
+  </section>
+
+  <section class="section" id="testimonials">
+    <h2 class="section-title gradient-text" data-i18n="testimonials.title">What Users Say</h2>
+    <p class="section-subtitle" data-i18n="testimonials.subtitle">Real feedback from Lovescape users</p>
+    <div class="testimonials-grid" id="testimonials-grid"></div>
+  </section>
+
+  <section class="section" id="faq">
+    <h2 class="section-title gradient-text" data-i18n="faq.title">Frequently Asked Questions</h2>
+    <p class="section-subtitle" data-i18n="faq.subtitle">Quick answers about Lovescape</p>
+    <div id="faq-container"></div>
+  </section>
+
+  <section class="final-cta">
+    <h2 data-i18n="final_cta.title">Ready to Try Lovescape?</h2>
+    <p data-i18n="final_cta.subtitle">Join 50,000+ users creating custom AI companions and adult content.</p>
+    <a href="/go/lovescape" class="gradient-btn" data-i18n="final_cta.cta">Try Lovescape Free →</a>
+    <p class="guarantee" data-i18n="final_cta.guarantee">Free tier available • No credit card required • Discreet billing</p>
+  </section>
+
+  <footer>
+    <div class="footer-inner" id="footer"></div>
+    <div class="footer-bottom">
+      <p id="footer-copyright"></p>
+      <p id="footer-disclaimer"></p>
+      <p id="footer-disclaimer2"></p>
+    </div>
+  </footer>
+
+  <script>
+    fetch('content.json')
+      .then(r=>r.json())
+      .then(c=>{
+        document.title=c.meta.title;
+        document.querySelector('meta[name="description"]').content=c.meta.description;
+        document.querySelector('meta[name="keywords"]').content=c.meta.keywords;
+        document.querySelector('meta[property="og:title"]').content=c.meta.og_title;
+        document.querySelector('meta[property="og:description"]').content=c.meta.og_description;
+        document.querySelector('meta[property="og:image"]').content=c.meta.og_image;
+        document.querySelector('meta[name="twitter:title"]').content=c.meta.twitter_title;
+        document.querySelector('meta[name="twitter:description"]').content=c.meta.twitter_description;
+        document.querySelector('meta[name="twitter:image"]').content=c.meta.twitter_image;
+        document.getElementById('schema-data').textContent=JSON.stringify({"@context":"https://schema.org","@type":"Review","itemReviewed":{"@type":"SoftwareApplication","name":"Lovescape","applicationCategory":"AICompanion","operatingSystem":"Web"},"reviewRating":{"@type":"Rating","ratingValue":c.hero.rating,"bestRating":c.hero.rating_max},"author":{"@type":"Organization","name":c.meta.author},"publisher":{"@type":"Organization","name":"Love-Scape AI"},"datePublished":c.meta.published_date,"reviewBody":c.review.sections.map(s=>s.content).join(' ').substring(0,500)});
+
+        const nl=document.getElementById('nav-links');
+        c.nav.links.forEach(l=>{const a=document.createElement('a');a.href=l.href;a.textContent=l.text;a.setAttribute('data-i18n','nav.link');nl.appendChild(a);});
+        const ncta=document.createElement('a');ncta.href=c.hero.cta_primary_href;ncta.className='gradient-btn';ncta.style.padding='10px 20px';ncta.style.fontSize='.85rem';ncta.textContent=c.nav.cta;ncta.setAttribute('rel','nofollow sponsored');nl.appendChild(ncta);
+
+        document.querySelector('[data-i18n="hero.badge"]').textContent=c.hero.badge;
+        document.querySelector('[data-i18n="hero.title"]').textContent=c.hero.title;
+        document.querySelector('[data-i18n="hero.subtitle"]').textContent=c.hero.subtitle;
+        document.querySelector('[data-i18n="hero.cta_primary"]').href=c.hero.cta_primary_href;
+        document.querySelector('[data-i18n="hero.cta_secondary"]').href=c.hero.cta_secondary_href;
+
+        const hp=document.getElementById('hero-proof');
+        c.hero.social_proof.forEach(s=>{const sp=document.createElement('span');sp.textContent='✓ '+s;hp.appendChild(sp);});
+        document.getElementById('rating-stars').innerHTML='★'.repeat(Math.round(c.hero.rating)).split('').map(s=>'<span class="star">'+s+'</span>').join('')+'☆'.repeat(c.hero.rating_max-Math.round(c.hero.rating)).split('').map(s=>'<span style="color:var(--text-dim)">'+s+'</span>').join('');
+        document.getElementById('rating-text').textContent=c.hero.rating+'/'+c.hero.rating_max+' ('+c.hero.rating_count+')';
+
+        const fg=document.getElementById('features-grid');
+        c.features.items.forEach(f=>{const d=document.createElement('div');d.className='card feature-card';d.innerHTML='<div class="feature-icon">'+f.icon+'</div><h3>'+f.title+'</h3><p>'+f.description+'</p>';fg.appendChild(d);});
+
+        const st=document.getElementById('steps');
+        c.how_it_works.steps.forEach(s=>{const d=document.createElement('div');d.className='step';d.innerHTML='<div class="step-num">'+s.number+'</div><h3>'+s.title+'</h3><p>'+s.description+'</p>';st.appendChild(d);});
+
+        const rc=document.getElementById('review-content');
+        c.review.sections.forEach(s=>{const d=document.createElement('div');d.className='review-section';d.innerHTML='<h2>'+s.heading+'</h2>'+s.content.split('\n\n').map(p=>p.startsWith('•')||p.startsWith('**')?'<p>'+p.replace(/\*\*(.*?)\*\*/g,'<strong>$1</strong>').replace(/^•\s*/gm,'').split('\n').map(l=>'• '+l).join('<br>')+'</p>':'<p>'+p.replace(/\*\*(.*?)\*\*/g,'<strong>$1</strong>')+'</p>').join('');rc.appendChild(d);});
+
+        const ct=document.getElementById('comparison-table');
+        let cth='<tr>'+c.comparison.table.headers.map(h=>'<th>'+h+'</th>').join('')+'</tr>';
+        let ctb=c.comparison.table.rows.map(r=>'<tr>'+r.map((cell,i)=>'<td>'+cell.replace('✅','<span class="check">✓</span>').replace('❌','<span class="cross">✗</span>').replace('⚠️','<span class="dash">~</span>')+'</td>').join('')+'</tr>').join('');
+        ct.innerHTML=cth+ctb;
+
+        const tg=document.getElementById('testimonials-grid');
+        c.testimonials.items.forEach(t=>{const d=document.createElement('div');d.className='testimonial-card';d.innerHTML='<div class="testimonial-stars">'+'★'.repeat(t.rating).split('').map(s=>'<span class="star">'+s+'</span>').join('')+'☆'.repeat(5-t.rating).split('').map(s=>'<span style="color:var(--text-dim)">'+s+'</span>').join('')+'</div><p class="testimonial-text">"'+t.text+'"</p><div class="testimonial-author">'+t.author+'</div><div class="testimonial-location">'+t.location+'</div>';tg.appendChild(d);});
+
+        const fc=document.getElementById('faq-container');
+        c.faq.items.forEach((f,i)=>{const d=document.createElement('div');d.className='faq-item';d.innerHTML='<div class="faq-question" onclick="toggleFaq('+i+')">'+f.question+'<span class="faq-toggle" id="ft'+i+'">+</span></div><div class="faq-answer" id="fa'+i+'"><p>'+f.answer+'</p></div>';fc.appendChild(d);});
+        window.toggleFaq=function(i){const a=document.getElementById('fa'+i);const t=document.getElementById('ft'+i);a.classList.toggle('open');t.classList.toggle('open');};
+
+        document.querySelector('[data-i18n="final_cta.title"]').textContent=c.final_cta.title;
+        document.querySelector('[data-i18n="final_cta.subtitle"]').textContent=c.final_cta.subtitle;
+        document.querySelector('[data-i18n="final_cta.cta"]').href=c.final_cta.cta_href;
+        document.querySelector('[data-i18n="final_cta.guarantee"]').textContent=c.final_cta.guarantee;
+
+        const fo=document.getElementById('footer');
+        fo.innerHTML='<div><div class="footer-brand">'+c.footer.brand+'</div><p class="footer-desc">'+c.footer.description+'</p></div>'+c.footer.columns.map(col=>'<div class="footer-col"><h4>'+col.title+'</h4>'+col.links.map(l=>'<a href="'+l.href+'"'+(l.href.startsWith('http')?' target="_blank" rel="nofollow"':'')+'>'+l.text+'</a>').join('')+'</div>').join('');
+        document.getElementById('footer-copyright').textContent=c.footer.copyright;
+        document.getElementById('footer-disclaimer').textContent=c.footer.disclaimer;
+        document.getElementById('footer-disclaimer2').textContent=c.footer.disclaimer_2;
+      })
+      .catch(e=>console.error('Failed to load content:',e));
+  </script>
+</body>
+</html>

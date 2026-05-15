@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /privacy.html
+Disallow: /terms.html
+Disallow: /affiliate-disclosure.html
+Disallow: /cookies-policy.html
+
+Sitemap: https://love-scape-ai.net/sitemap.xml
